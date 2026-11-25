@@ -1,0 +1,210 @@
+{
+  "n_users": 2000,
+  "n_txns": 349182,
+  "n_months": 12,
+  "churn_rate": 0.1115,
+  "routing_total": {
+    "actual_points": 557905.75,
+    "optimal_points": 844707.3999999999,
+    "lift_pct": 51.406828124642914,
+    "agree_rate": 0.35706594268891295,
+    "total_spend": 32059634.259999998,
+    "n_txns": 349182
+  },
+  "routing_by_category": [
+    {
+      "category": "Dining",
+      "actual_points": 65319.81,
+      "optimal_points": 112169.59,
+      "txns": 67104,
+      "spend": 3295441.07,
+      "agree_rate": 0.3497705054840248,
+      "lift_pct": 71.72369301135444,
+      "yield_actual": 1.9821264775340075,
+      "yield_optimal": 3.4037807873772725
+    },
+    {
+      "category": "Gas",
+      "actual_points": 20781.65,
+      "optimal_points": 25563.22,
+      "txns": 24807,
+      "spend": 1299725.41,
+      "agree_rate": 0.3638489136130931,
+      "lift_pct": 23.008615774012164,
+      "yield_actual": 1.5989261916484347,
+      "yield_optimal": 1.9668169755948686
+    },
+    {
+      "category": "Groceries",
+      "actual_points": 148771.6,
+      "optimal_points": 217780.8,
+      "txns": 75795,
+      "spend": 7499441.96,
+      "agree_rate": 0.3631769905666601,
+      "lift_pct": 46.38600378029138,
+      "yield_actual": 1.9837689363222968,
+      "yield_optimal": 2.903960070117004
+    },
+    {
+      "category": "Online",
+      "actual_points": 82905.78,
+      "optimal_points": 120053.55,
+      "txns": 66234,
+      "spend": 5245604.52,
+      "agree_rate": 0.3518434640818915,
+      "lift_pct": 44.807213682809575,
+      "yield_actual": 1.5804809471225634,
+      "yield_optimal": 2.2886504223158632
+    },
+    {
+      "category": "Other",
+      "actual_points": 34660.42,
+      "optimal_points": 46430.93,
+      "txns": 45063,
+      "spend": 2877125.41,
+      "agree_rate": 0.3599627188602623,
+      "lift_pct": 33.9595134738702,
+      "yield_actual": 1.2046892318121092,
+      "yield_optimal": 1.6137958338076057
+    },
+    {
+      "category": "Streaming",
+      "actual_points": 4919.63,
+      "optimal_points": 6590.06,
+      "txns": 23448,
+      "spend": 408772.81,
+      "agree_rate": 0.3561924257932446,
+      "lift_pct": 33.95438274829612,
+      "yield_actual": 1.2035120437682731,
+      "yield_optimal": 1.6121571295311936
+    },
+    {
+      "category": "Travel",
+      "actual_points": 200546.86,
+      "optimal_points": 316119.25,
+      "txns": 46731,
+      "spend": 11433523.08,
+      "agree_rate": 0.35907641608354196,
+      "lift_pct": 57.62862106143174,
+      "yield_actual": 1.7540250594395088,
+      "yield_optimal": 2.7648455142664567
+    }
+  ],
+  "churn": {
+    "rule": {
+      "auc": 0.8692889317889316,
+      "accuracy": 0.948,
+      "precision_at_20": 0.46,
+      "recall_at_20": 0.8214285714285714
+    },
+    "logistic": {
+      "auc": 0.9952541827541828,
+      "accuracy": 0.986,
+      "precision_at_20": 0.55,
+      "recall_at_20": 0.9821428571428571
+    },
+    "random_forest": {
+      "auc": 0.9919160231660231,
+      "accuracy": 0.98,
+      "precision_at_20": 0.54,
+      "recall_at_20": 0.9642857142857143
+    }
+  },
+  "churn_feature_importance": [
+    {
+      "feature": "txns_last_3m",
+      "importance": 0.3553
+    },
+    {
+      "feature": "spend_trend_3m",
+      "importance": 0.2287
+    },
+    {
+      "feature": "spend_last_3m",
+      "importance": 0.1855
+    },
+    {
+      "feature": "points_last_3m",
+      "importance": 0.1483
+    },
+    {
+      "feature": "max_gap_days",
+      "importance": 0.039
+    },
+    {
+      "feature": "txn_count",
+      "importance": 0.0108
+    },
+    {
+      "feature": "active_days",
+      "importance": 0.0081
+    },
+    {
+      "feature": "total_spend",
+      "importance": 0.0061
+    },
+    {
+      "feature": "points_earned",
+      "importance": 0.006
+    },
+    {
+      "feature": "groceries_share",
+      "importance": 0.0026
+    },
+    {
+      "feature": "travel_share",
+      "importance": 0.002
+    },
+    {
+      "feature": "online_share",
+      "importance": 0.0016
+    },
+    {
+      "feature": "dining_share",
+      "importance": 0.0015
+    },
+    {
+      "feature": "router_lift_avail",
+      "importance": 0.0015
+    },
+    {
+      "feature": "points_per_dollar",
+      "importance": 0.0014
+    },
+    {
+      "feature": "avg_txn",
+      "importance": 0.0014
+    },
+    {
+      "feature": "distinct_cats",
+      "importance": 0.0
+    },
+    {
+      "feature": "months_active",
+      "importance": 0.0
+    }
+  ],
+  "yield": {
+    "mean_baseline": {
+      "mape": 89.10482773232489,
+      "r2": 0.0
+    },
+    "linear": {
+      "mape": 74.68850537100941,
+      "r2": 0.19766349279344142
+    },
+    "random_forest": {
+      "mape": 84.4155758118806,
+      "r2": 0.1051885960236092
+    }
+  },
+  "card_choice": {
+    "logistic": {
+      "agreement": 0.5467
+    },
+    "random_forest": {
+      "agreement": 0.5934
+    }
+  },
+  "synthetic_data": true
+}

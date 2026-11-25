@@ -1,0 +1,2001 @@
+user_id,archetype,held_cards,default_card,churn_prone
+0,Foodie,Everyday;Rotator;Bistro;Apex Flat,Apex Flat,False
+1,Online Shopper,Apex Flat;Rotator;Everyday;Voyager,Voyager,False
+2,Online Shopper,Apex Flat;Everyday;Voyager;Bistro,Voyager,False
+3,Traveller,Everyday;Voyager;Apex Flat;Bistro,Bistro,False
+4,Traveller,Everyday;Apex Flat;Rotator;Bistro,Bistro,False
+5,Balanced,Voyager;Bistro,Bistro,False
+6,Foodie,Bistro;Voyager;Rotator,Rotator,False
+7,Online Shopper,Apex Flat;Voyager;Bistro;Rotator,Apex Flat,False
+8,Family,Bistro;Apex Flat;Everyday,Everyday,False
+9,Foodie,Rotator;Voyager;Apex Flat;Bistro,Voyager,False
+10,Traveller,Everyday;Voyager;Bistro,Bistro,False
+11,Balanced,Apex Flat;Rotator;Everyday;Bistro,Bistro,False
+12,Online Shopper,Voyager;Bistro,Bistro,False
+13,Online Shopper,Bistro;Voyager,Bistro,False
+14,Online Shopper,Everyday;Apex Flat,Everyday,False
+15,Online Shopper,Voyager;Everyday,Everyday,False
+16,Traveller,Bistro;Voyager,Bistro,True
+17,Foodie,Apex Flat;Everyday;Bistro;Voyager,Everyday,False
+18,Balanced,Bistro;Rotator;Voyager;Apex Flat,Bistro,False
+19,Traveller,Bistro;Rotator;Voyager;Everyday,Everyday,False
+20,Traveller,Voyager;Everyday,Everyday,False
+21,Family,Everyday;Bistro;Voyager;Rotator,Bistro,False
+22,Foodie,Voyager;Everyday;Rotator,Everyday,False
+23,Balanced,Apex Flat;Everyday;Bistro;Voyager,Apex Flat,False
+24,Online Shopper,Rotator;Bistro;Everyday;Voyager,Everyday,False
+25,Online Shopper,Apex Flat;Voyager;Everyday,Everyday,False
+26,Traveller,Apex Flat;Rotator;Voyager;Everyday,Rotator,False
+27,Balanced,Rotator;Voyager;Apex Flat;Everyday,Rotator,False
+28,Traveller,Rotator;Voyager;Bistro;Everyday,Rotator,False
+29,Traveller,Voyager;Everyday;Bistro;Rotator,Bistro,False
+30,Traveller,Voyager;Apex Flat;Rotator,Apex Flat,True
+31,Family,Voyager;Bistro;Rotator,Bistro,True
+32,Foodie,Voyager;Everyday;Bistro,Bistro,True
+33,Traveller,Voyager;Rotator;Everyday;Bistro,Everyday,False
+34,Balanced,Everyday;Bistro;Rotator,Everyday,False
+35,Foodie,Voyager;Apex Flat;Bistro;Rotator,Rotator,False
+36,Balanced,Rotator;Bistro,Bistro,False
+37,Balanced,Everyday;Rotator;Apex Flat;Voyager,Apex Flat,False
+38,Family,Voyager;Everyday;Rotator;Bistro,Rotator,True
+39,Online Shopper,Rotator;Everyday;Bistro,Bistro,False
+40,Foodie,Voyager;Everyday;Bistro,Everyday,True
+41,Online Shopper,Voyager;Apex Flat,Apex Flat,False
+42,Online Shopper,Bistro;Voyager;Rotator,Rotator,False
+43,Family,Apex Flat;Bistro,Apex Flat,False
+44,Foodie,Rotator;Voyager;Apex Flat,Apex Flat,False
+45,Balanced,Apex Flat;Voyager,Apex Flat,False
+46,Traveller,Everyday;Bistro;Apex Flat,Everyday,False
+47,Balanced,Voyager;Apex Flat,Voyager,False
+48,Online Shopper,Rotator;Bistro;Everyday;Apex Flat,Everyday,False
+49,Online Shopper,Bistro;Everyday,Everyday,False
+50,Online Shopper,Bistro;Voyager;Apex Flat,Bistro,False
+51,Foodie,Everyday;Bistro,Bistro,False
+52,Family,Bistro;Rotator;Voyager;Everyday,Rotator,False
+53,Traveller,Bistro;Voyager;Apex Flat,Voyager,False
+54,Traveller,Everyday;Bistro;Apex Flat,Everyday,False
+55,Foodie,Bistro;Apex Flat,Bistro,False
+56,Traveller,Apex Flat;Rotator;Bistro,Rotator,False
+57,Foodie,Everyday;Rotator,Everyday,False
+58,Online Shopper,Bistro;Everyday,Bistro,False
+59,Online Shopper,Everyday;Bistro;Apex Flat,Everyday,False
+60,Balanced,Rotator;Bistro;Everyday,Everyday,False
+61,Online Shopper,Apex Flat;Bistro;Voyager,Voyager,False
+62,Family,Apex Flat;Voyager;Rotator;Everyday,Rotator,False
+63,Balanced,Bistro;Voyager;Apex Flat;Everyday,Voyager,False
+64,Traveller,Apex Flat;Everyday;Voyager;Bistro,Everyday,False
+65,Family,Everyday;Bistro,Everyday,False
+66,Balanced,Voyager;Rotator;Bistro,Voyager,False
+67,Family,Bistro;Voyager;Rotator,Voyager,False
+68,Foodie,Everyday;Apex Flat,Apex Flat,True
+69,Traveller,Apex Flat;Voyager;Everyday,Voyager,False
+70,Online Shopper,Apex Flat;Voyager;Everyday;Rotator,Everyday,False
+71,Foodie,Apex Flat;Voyager,Voyager,True
+72,Traveller,Apex Flat;Rotator,Rotator,False
+73,Foodie,Everyday;Apex Flat;Voyager;Rotator,Rotator,False
+74,Online Shopper,Bistro;Apex Flat;Voyager;Everyday,Voyager,False
+75,Traveller,Apex Flat;Bistro;Voyager;Rotator,Bistro,False
+76,Family,Rotator;Apex Flat;Voyager;Bistro,Rotator,False
+77,Family,Voyager;Rotator;Everyday,Voyager,False
+78,Traveller,Rotator;Bistro,Rotator,False
+79,Online Shopper,Everyday;Bistro;Rotator;Voyager,Everyday,True
+80,Balanced,Bistro;Everyday;Rotator,Rotator,False
+81,Traveller,Voyager;Apex Flat;Everyday,Apex Flat,False
+82,Foodie,Everyday;Rotator;Bistro;Apex Flat,Rotator,False
+83,Balanced,Everyday;Apex Flat,Everyday,False
+84,Online Shopper,Rotator;Everyday,Rotator,True
+85,Online Shopper,Voyager;Everyday;Rotator,Voyager,False
+86,Foodie,Voyager;Rotator,Voyager,True
+87,Family,Apex Flat;Voyager;Rotator,Rotator,False
+88,Online Shopper,Rotator;Apex Flat,Apex Flat,False
+89,Balanced,Apex Flat;Bistro;Rotator;Voyager,Bistro,False
+90,Traveller,Apex Flat;Rotator;Bistro,Rotator,False
+91,Balanced,Everyday;Bistro,Bistro,False
+92,Balanced,Voyager;Rotator;Everyday;Apex Flat,Rotator,False
+93,Family,Bistro;Apex Flat,Bistro,False
+94,Balanced,Bistro;Apex Flat;Voyager,Apex Flat,True
+95,Family,Everyday;Rotator;Apex Flat,Apex Flat,False
+96,Family,Apex Flat;Rotator;Everyday;Bistro,Rotator,True
+97,Online Shopper,Bistro;Apex Flat,Bistro,False
+98,Online Shopper,Rotator;Apex Flat;Voyager,Voyager,False
+99,Foodie,Bistro;Rotator;Everyday,Bistro,False
+100,Balanced,Rotator;Voyager,Rotator,False
+101,Foodie,Apex Flat;Everyday;Bistro;Rotator,Apex Flat,False
+102,Balanced,Bistro;Rotator;Everyday,Everyday,False
+103,Foodie,Rotator;Everyday;Bistro;Apex Flat,Everyday,False
+104,Online Shopper,Rotator;Voyager;Everyday;Bistro,Everyday,False
+105,Online Shopper,Voyager;Everyday;Rotator,Voyager,False
+106,Online Shopper,Everyday;Rotator;Bistro;Apex Flat,Bistro,False
+107,Online Shopper,Everyday;Bistro,Everyday,False
+108,Traveller,Everyday;Voyager,Everyday,False
+109,Online Shopper,Rotator;Everyday;Apex Flat;Bistro,Bistro,False
+110,Family,Voyager;Bistro;Rotator,Rotator,False
+111,Online Shopper,Bistro;Rotator,Rotator,False
+112,Traveller,Rotator;Bistro,Rotator,True
+113,Traveller,Apex Flat;Everyday,Everyday,False
+114,Traveller,Bistro;Apex Flat,Apex Flat,True
+115,Traveller,Bistro;Rotator;Apex Flat;Voyager,Rotator,False
+116,Foodie,Everyday;Bistro;Voyager,Everyday,False
+117,Foodie,Rotator;Voyager,Voyager,False
+118,Family,Everyday;Bistro;Rotator,Bistro,False
+119,Foodie,Rotator;Apex Flat;Voyager;Everyday,Apex Flat,False
+120,Traveller,Voyager;Apex Flat,Voyager,True
+121,Online Shopper,Rotator;Voyager;Bistro,Bistro,False
+122,Online Shopper,Bistro;Rotator;Voyager,Rotator,True
+123,Traveller,Rotator;Everyday;Apex Flat;Bistro,Everyday,False
+124,Balanced,Bistro;Everyday,Bistro,False
+125,Traveller,Apex Flat;Everyday,Apex Flat,False
+126,Foodie,Bistro;Everyday;Apex Flat;Rotator,Everyday,False
+127,Online Shopper,Everyday;Apex Flat,Apex Flat,False
+128,Traveller,Bistro;Rotator;Everyday;Apex Flat,Rotator,False
+129,Online Shopper,Voyager;Bistro;Apex Flat;Rotator,Apex Flat,True
+130,Traveller,Everyday;Voyager;Apex Flat,Everyday,False
+131,Traveller,Voyager;Everyday;Rotator;Bistro,Rotator,False
+132,Foodie,Everyday;Bistro;Rotator,Everyday,False
+133,Traveller,Apex Flat;Everyday;Voyager,Everyday,False
+134,Online Shopper,Bistro;Apex Flat;Voyager;Rotator,Voyager,False
+135,Family,Bistro;Apex Flat,Apex Flat,False
+136,Online Shopper,Rotator;Apex Flat,Apex Flat,False
+137,Foodie,Everyday;Voyager;Rotator,Everyday,False
+138,Family,Rotator;Voyager;Everyday;Apex Flat,Apex Flat,False
+139,Traveller,Bistro;Apex Flat,Apex Flat,False
+140,Balanced,Apex Flat;Rotator;Bistro;Everyday,Bistro,False
+141,Family,Bistro;Everyday;Voyager,Bistro,False
+142,Family,Rotator;Voyager,Voyager,False
+143,Traveller,Everyday;Voyager,Everyday,False
+144,Balanced,Rotator;Apex Flat;Bistro;Voyager,Apex Flat,True
+145,Balanced,Bistro;Rotator,Bistro,False
+146,Foodie,Voyager;Bistro;Apex Flat,Bistro,False
+147,Family,Rotator;Voyager,Rotator,False
+148,Balanced,Voyager;Apex Flat;Bistro,Apex Flat,False
+149,Foodie,Apex Flat;Voyager,Apex Flat,True
+150,Balanced,Voyager;Rotator;Everyday,Rotator,False
+151,Family,Bistro;Rotator;Everyday;Voyager,Bistro,False
+152,Balanced,Bistro;Apex Flat,Apex Flat,False
+153,Family,Everyday;Bistro;Rotator,Bistro,False
+154,Traveller,Voyager;Bistro,Bistro,False
+155,Online Shopper,Apex Flat;Bistro;Rotator,Apex Flat,False
+156,Foodie,Apex Flat;Bistro;Voyager,Bistro,True
+157,Traveller,Bistro;Apex Flat;Voyager,Apex Flat,False
+158,Traveller,Voyager;Rotator;Everyday,Rotator,False
+159,Online Shopper,Bistro;Voyager;Rotator;Apex Flat,Apex Flat,False
+160,Balanced,Rotator;Apex Flat;Bistro,Rotator,False
+161,Online Shopper,Everyday;Bistro;Rotator,Rotator,False
+162,Traveller,Apex Flat;Everyday;Bistro;Rotator,Apex Flat,False
+163,Traveller,Bistro;Voyager;Rotator,Voyager,False
+164,Traveller,Everyday;Voyager;Apex Flat;Bistro,Apex Flat,False
+165,Balanced,Rotator;Everyday;Apex Flat,Rotator,False
+166,Family,Bistro;Apex Flat,Bistro,False
+167,Foodie,Bistro;Voyager,Voyager,False
+168,Family,Rotator;Apex Flat;Everyday;Bistro,Rotator,False
+169,Foodie,Rotator;Apex Flat,Apex Flat,False
+170,Foodie,Bistro;Everyday;Apex Flat;Rotator,Everyday,False
+171,Foodie,Rotator;Everyday;Bistro,Rotator,False
+172,Online Shopper,Everyday;Apex Flat;Bistro;Voyager,Bistro,False
+173,Online Shopper,Voyager;Apex Flat;Everyday,Apex Flat,False
+174,Online Shopper,Bistro;Everyday;Rotator,Bistro,False
+175,Traveller,Bistro;Everyday;Apex Flat;Voyager,Voyager,False
+176,Online Shopper,Apex Flat;Rotator;Everyday;Voyager,Rotator,False
+177,Foodie,Bistro;Voyager;Apex Flat;Everyday,Bistro,False
+178,Balanced,Rotator;Voyager;Everyday;Apex Flat,Voyager,False
+179,Traveller,Everyday;Voyager;Bistro;Apex Flat,Everyday,False
+180,Balanced,Voyager;Bistro;Everyday,Everyday,True
+181,Foodie,Bistro;Apex Flat;Everyday,Apex Flat,False
+182,Traveller,Rotator;Voyager;Apex Flat;Bistro,Apex Flat,False
+183,Online Shopper,Rotator;Bistro;Apex Flat;Voyager,Rotator,False
+184,Traveller,Bistro;Everyday;Apex Flat;Voyager,Bistro,False
+185,Traveller,Voyager;Apex Flat;Everyday;Rotator,Voyager,False
+186,Foodie,Everyday;Apex Flat,Apex Flat,True
+187,Family,Voyager;Rotator;Apex Flat,Voyager,True
+188,Family,Rotator;Bistro;Voyager,Voyager,False
+189,Family,Voyager;Rotator;Apex Flat;Bistro,Bistro,False
+190,Online Shopper,Apex Flat;Bistro;Everyday;Rotator,Everyday,False
+191,Online Shopper,Everyday;Voyager,Voyager,False
+192,Online Shopper,Voyager;Everyday;Rotator,Voyager,False
+193,Family,Everyday;Voyager;Bistro,Voyager,False
+194,Balanced,Everyday;Bistro,Bistro,False
+195,Foodie,Rotator;Apex Flat;Voyager;Bistro,Apex Flat,False
+196,Family,Apex Flat;Rotator,Apex Flat,True
+197,Foodie,Everyday;Bistro,Bistro,False
+198,Family,Voyager;Rotator;Everyday,Rotator,False
+199,Balanced,Rotator;Apex Flat;Voyager,Rotator,False
+200,Family,Bistro;Rotator;Everyday,Rotator,False
+201,Balanced,Bistro;Everyday;Rotator,Rotator,False
+202,Traveller,Bistro;Rotator;Everyday;Voyager,Voyager,False
+203,Online Shopper,Rotator;Everyday;Apex Flat,Rotator,False
+204,Traveller,Rotator;Apex Flat;Bistro,Bistro,True
+205,Family,Bistro;Voyager,Voyager,False
+206,Online Shopper,Apex Flat;Bistro;Rotator;Everyday,Everyday,False
+207,Balanced,Rotator;Bistro;Everyday,Bistro,False
+208,Family,Apex Flat;Everyday,Everyday,False
+209,Online Shopper,Apex Flat;Rotator;Voyager;Bistro,Bistro,False
+210,Family,Apex Flat;Everyday;Bistro;Voyager,Bistro,False
+211,Online Shopper,Bistro;Rotator;Apex Flat;Voyager,Rotator,False
+212,Online Shopper,Rotator;Voyager;Everyday,Rotator,False
+213,Traveller,Rotator;Voyager,Rotator,False
+214,Online Shopper,Apex Flat;Bistro,Apex Flat,False
+215,Family,Bistro;Apex Flat;Everyday;Voyager,Voyager,False
+216,Foodie,Bistro;Voyager;Everyday;Rotator,Bistro,False
+217,Foodie,Bistro;Rotator;Apex Flat,Apex Flat,False
+218,Traveller,Voyager;Everyday;Bistro,Everyday,False
+219,Balanced,Everyday;Bistro;Voyager;Rotator,Voyager,True
+220,Foodie,Bistro;Rotator,Rotator,False
+221,Traveller,Voyager;Rotator,Voyager,False
+222,Online Shopper,Rotator;Apex Flat,Apex Flat,False
+223,Family,Bistro;Apex Flat;Rotator,Apex Flat,False
+224,Online Shopper,Everyday;Bistro;Rotator,Everyday,False
+225,Family,Voyager;Everyday;Apex Flat;Rotator,Everyday,False
+226,Balanced,Voyager;Rotator;Bistro;Everyday,Rotator,False
+227,Traveller,Everyday;Bistro,Bistro,False
+228,Traveller,Voyager;Rotator;Bistro;Apex Flat,Rotator,False
+229,Foodie,Bistro;Apex Flat;Everyday,Apex Flat,False
+230,Traveller,Apex Flat;Voyager,Voyager,False
+231,Balanced,Everyday;Bistro,Everyday,False
+232,Foodie,Bistro;Rotator;Voyager,Voyager,False
+233,Online Shopper,Bistro;Rotator;Everyday;Voyager,Everyday,False
+234,Traveller,Rotator;Everyday;Voyager;Bistro,Voyager,False
+235,Online Shopper,Voyager;Apex Flat,Voyager,False
+236,Online Shopper,Voyager;Rotator,Rotator,False
+237,Traveller,Voyager;Apex Flat;Everyday;Rotator,Everyday,False
+238,Family,Bistro;Everyday,Bistro,False
+239,Online Shopper,Apex Flat;Voyager;Everyday;Bistro,Apex Flat,False
+240,Foodie,Everyday;Voyager;Rotator,Rotator,True
+241,Traveller,Apex Flat;Rotator,Apex Flat,False
+242,Foodie,Rotator;Apex Flat;Voyager,Apex Flat,False
+243,Online Shopper,Rotator;Everyday;Apex Flat,Apex Flat,False
+244,Online Shopper,Everyday;Rotator;Voyager;Apex Flat,Voyager,False
+245,Foodie,Apex Flat;Rotator,Apex Flat,False
+246,Online Shopper,Everyday;Apex Flat,Apex Flat,False
+247,Traveller,Bistro;Rotator;Voyager;Apex Flat,Rotator,False
+248,Online Shopper,Everyday;Voyager;Rotator;Apex Flat,Rotator,False
+249,Foodie,Voyager;Rotator,Rotator,False
+250,Foodie,Apex Flat;Voyager,Voyager,True
+251,Traveller,Bistro;Apex Flat;Everyday,Bistro,False
+252,Foodie,Bistro;Apex Flat;Rotator;Voyager,Bistro,False
+253,Family,Voyager;Bistro;Rotator,Voyager,False
+254,Online Shopper,Voyager;Rotator;Bistro,Voyager,False
+255,Foodie,Apex Flat;Everyday,Apex Flat,False
+256,Online Shopper,Everyday;Voyager;Apex Flat,Everyday,False
+257,Foodie,Everyday;Bistro,Bistro,False
+258,Foodie,Rotator;Voyager;Apex Flat;Bistro,Bistro,False
+259,Traveller,Apex Flat;Rotator;Bistro,Apex Flat,False
+260,Online Shopper,Bistro;Everyday,Everyday,False
+261,Foodie,Bistro;Rotator;Apex Flat;Voyager,Apex Flat,False
+262,Family,Rotator;Voyager;Everyday;Bistro,Voyager,False
+263,Balanced,Voyager;Apex Flat,Voyager,False
+264,Balanced,Apex Flat;Rotator;Bistro;Voyager,Rotator,False
+265,Traveller,Rotator;Everyday;Bistro;Voyager,Rotator,False
+266,Traveller,Everyday;Apex Flat,Apex Flat,False
+267,Family,Bistro;Rotator;Everyday,Rotator,False
+268,Online Shopper,Everyday;Bistro;Rotator,Everyday,False
+269,Traveller,Apex Flat;Bistro;Voyager;Rotator,Rotator,False
+270,Family,Everyday;Apex Flat;Bistro;Voyager,Everyday,False
+271,Foodie,Bistro;Voyager;Everyday;Rotator,Voyager,False
+272,Foodie,Everyday;Apex Flat,Everyday,False
+273,Balanced,Bistro;Apex Flat;Everyday,Everyday,False
+274,Traveller,Voyager;Apex Flat;Rotator;Everyday,Rotator,False
+275,Traveller,Rotator;Voyager,Rotator,False
+276,Traveller,Voyager;Everyday,Voyager,False
+277,Online Shopper,Bistro;Rotator,Rotator,False
+278,Foodie,Rotator;Bistro;Voyager;Everyday,Bistro,True
+279,Foodie,Everyday;Apex Flat,Everyday,True
+280,Family,Rotator;Voyager;Everyday;Bistro,Everyday,False
+281,Traveller,Rotator;Everyday;Voyager;Bistro,Everyday,False
+282,Online Shopper,Everyday;Voyager;Rotator,Everyday,False
+283,Traveller,Voyager;Rotator;Everyday;Bistro,Voyager,False
+284,Traveller,Bistro;Everyday,Bistro,False
+285,Balanced,Bistro;Apex Flat;Everyday,Everyday,True
+286,Foodie,Bistro;Rotator;Apex Flat,Bistro,False
+287,Traveller,Everyday;Bistro;Apex Flat;Voyager,Apex Flat,False
+288,Traveller,Apex Flat;Rotator;Everyday;Voyager,Rotator,False
+289,Traveller,Everyday;Voyager;Apex Flat;Rotator,Rotator,False
+290,Balanced,Everyday;Voyager,Voyager,False
+291,Family,Everyday;Rotator;Voyager;Apex Flat,Rotator,False
+292,Balanced,Rotator;Apex Flat;Bistro;Everyday,Apex Flat,False
+293,Family,Voyager;Bistro,Voyager,False
+294,Traveller,Bistro;Rotator;Apex Flat,Rotator,False
+295,Traveller,Voyager;Rotator;Everyday;Bistro,Voyager,False
+296,Balanced,Rotator;Voyager,Rotator,False
+297,Traveller,Voyager;Rotator,Voyager,False
+298,Family,Bistro;Voyager;Rotator;Everyday,Rotator,False
+299,Foodie,Everyday;Bistro;Apex Flat,Apex Flat,False
+300,Family,Voyager;Everyday;Apex Flat,Apex Flat,False
+301,Balanced,Everyday;Rotator;Voyager;Apex Flat,Rotator,False
+302,Foodie,Rotator;Everyday,Everyday,False
+303,Balanced,Rotator;Apex Flat;Voyager,Rotator,False
+304,Traveller,Voyager;Everyday;Bistro;Apex Flat,Everyday,False
+305,Foodie,Bistro;Rotator;Everyday,Everyday,False
+306,Family,Apex Flat;Rotator,Rotator,False
+307,Traveller,Rotator;Everyday,Rotator,False
+308,Family,Voyager;Rotator,Voyager,False
+309,Foodie,Everyday;Rotator,Everyday,False
+310,Online Shopper,Rotator;Voyager,Rotator,False
+311,Online Shopper,Voyager;Rotator;Everyday;Apex Flat,Apex Flat,False
+312,Foodie,Rotator;Apex Flat;Voyager;Everyday,Everyday,False
+313,Family,Rotator;Voyager;Bistro,Bistro,False
+314,Family,Everyday;Rotator;Apex Flat;Voyager,Everyday,False
+315,Online Shopper,Bistro;Rotator;Everyday;Voyager,Rotator,False
+316,Online Shopper,Rotator;Bistro;Voyager;Apex Flat,Voyager,True
+317,Online Shopper,Rotator;Voyager;Apex Flat;Bistro,Voyager,False
+318,Balanced,Everyday;Rotator;Bistro;Apex Flat,Rotator,False
+319,Online Shopper,Rotator;Apex Flat,Apex Flat,False
+320,Family,Apex Flat;Bistro;Voyager;Everyday,Bistro,True
+321,Foodie,Voyager;Rotator;Apex Flat;Everyday,Rotator,True
+322,Online Shopper,Voyager;Rotator;Everyday,Rotator,True
+323,Balanced,Rotator;Voyager,Rotator,False
+324,Balanced,Bistro;Everyday;Voyager,Voyager,True
+325,Family,Bistro;Apex Flat;Voyager,Apex Flat,False
+326,Family,Everyday;Apex Flat,Everyday,False
+327,Foodie,Everyday;Rotator;Apex Flat,Everyday,True
+328,Foodie,Everyday;Apex Flat,Everyday,False
+329,Traveller,Everyday;Rotator;Apex Flat,Rotator,False
+330,Traveller,Apex Flat;Bistro;Everyday,Bistro,False
+331,Family,Apex Flat;Everyday;Rotator;Bistro,Apex Flat,False
+332,Family,Apex Flat;Rotator,Rotator,False
+333,Balanced,Apex Flat;Everyday,Everyday,False
+334,Traveller,Bistro;Apex Flat,Apex Flat,False
+335,Balanced,Bistro;Voyager,Voyager,False
+336,Balanced,Voyager;Bistro,Voyager,False
+337,Family,Rotator;Everyday,Rotator,False
+338,Family,Everyday;Rotator;Bistro,Rotator,False
+339,Balanced,Everyday;Voyager;Rotator;Bistro,Rotator,False
+340,Online Shopper,Rotator;Bistro;Voyager,Bistro,False
+341,Family,Bistro;Everyday;Rotator;Voyager,Bistro,False
+342,Online Shopper,Rotator;Everyday,Everyday,False
+343,Traveller,Voyager;Apex Flat;Bistro;Everyday,Everyday,True
+344,Balanced,Bistro;Rotator;Everyday,Rotator,False
+345,Family,Rotator;Apex Flat;Voyager,Apex Flat,False
+346,Balanced,Voyager;Bistro,Voyager,False
+347,Balanced,Everyday;Rotator,Rotator,False
+348,Foodie,Everyday;Apex Flat;Voyager,Voyager,False
+349,Foodie,Apex Flat;Bistro,Bistro,True
+350,Traveller,Apex Flat;Voyager;Rotator,Voyager,False
+351,Foodie,Apex Flat;Voyager;Rotator,Rotator,False
+352,Family,Everyday;Voyager;Apex Flat,Everyday,False
+353,Traveller,Voyager;Rotator,Voyager,False
+354,Balanced,Everyday;Voyager,Voyager,False
+355,Balanced,Bistro;Voyager,Bistro,False
+356,Foodie,Apex Flat;Rotator;Voyager;Bistro,Voyager,False
+357,Balanced,Rotator;Bistro;Apex Flat;Everyday,Apex Flat,False
+358,Foodie,Rotator;Everyday;Bistro,Everyday,False
+359,Online Shopper,Voyager;Everyday,Voyager,False
+360,Balanced,Everyday;Apex Flat;Rotator;Bistro,Apex Flat,False
+361,Balanced,Everyday;Bistro,Everyday,False
+362,Family,Apex Flat;Voyager,Apex Flat,False
+363,Balanced,Apex Flat;Bistro;Rotator,Bistro,True
+364,Foodie,Apex Flat;Voyager;Bistro;Rotator,Bistro,False
+365,Traveller,Apex Flat;Everyday;Rotator,Apex Flat,False
+366,Traveller,Voyager;Everyday;Rotator;Apex Flat,Voyager,False
+367,Family,Rotator;Everyday;Bistro,Everyday,False
+368,Foodie,Apex Flat;Rotator;Voyager,Rotator,False
+369,Online Shopper,Bistro;Rotator;Voyager;Apex Flat,Apex Flat,False
+370,Family,Bistro;Voyager;Apex Flat;Everyday,Apex Flat,False
+371,Online Shopper,Everyday;Bistro,Bistro,False
+372,Traveller,Apex Flat;Everyday;Rotator;Bistro,Everyday,False
+373,Family,Everyday;Voyager,Voyager,True
+374,Balanced,Everyday;Apex Flat;Rotator;Voyager,Apex Flat,False
+375,Foodie,Voyager;Bistro;Everyday;Rotator,Voyager,False
+376,Online Shopper,Rotator;Bistro;Apex Flat;Voyager,Apex Flat,False
+377,Online Shopper,Voyager;Apex Flat;Bistro;Everyday,Voyager,False
+378,Family,Rotator;Voyager,Voyager,False
+379,Family,Bistro;Apex Flat,Bistro,True
+380,Foodie,Apex Flat;Rotator;Everyday;Voyager,Voyager,False
+381,Balanced,Voyager;Apex Flat,Apex Flat,True
+382,Balanced,Rotator;Everyday,Rotator,False
+383,Family,Everyday;Bistro;Rotator;Apex Flat,Everyday,True
+384,Foodie,Rotator;Voyager;Everyday,Rotator,False
+385,Foodie,Voyager;Bistro;Everyday,Everyday,False
+386,Foodie,Everyday;Apex Flat;Voyager;Rotator,Everyday,False
+387,Balanced,Voyager;Bistro,Voyager,True
+388,Balanced,Bistro;Voyager;Apex Flat,Bistro,False
+389,Foodie,Bistro;Apex Flat;Everyday;Rotator,Apex Flat,False
+390,Online Shopper,Voyager;Everyday,Everyday,False
+391,Foodie,Rotator;Bistro,Rotator,False
+392,Family,Voyager;Rotator,Voyager,False
+393,Traveller,Rotator;Apex Flat;Everyday;Bistro,Apex Flat,True
+394,Online Shopper,Voyager;Everyday,Voyager,False
+395,Balanced,Apex Flat;Voyager;Everyday;Bistro,Apex Flat,False
+396,Foodie,Everyday;Voyager;Apex Flat,Apex Flat,False
+397,Foodie,Everyday;Rotator;Apex Flat,Rotator,False
+398,Family,Voyager;Apex Flat;Everyday,Apex Flat,False
+399,Family,Everyday;Bistro;Apex Flat;Voyager,Bistro,False
+400,Balanced,Rotator;Apex Flat,Rotator,False
+401,Online Shopper,Voyager;Apex Flat;Everyday;Bistro,Apex Flat,False
+402,Family,Bistro;Rotator;Apex Flat,Rotator,False
+403,Balanced,Voyager;Apex Flat,Apex Flat,False
+404,Traveller,Voyager;Apex Flat,Apex Flat,False
+405,Traveller,Apex Flat;Bistro;Rotator,Bistro,False
+406,Traveller,Apex Flat;Voyager;Bistro,Apex Flat,False
+407,Foodie,Voyager;Apex Flat;Rotator;Bistro,Rotator,True
+408,Balanced,Voyager;Everyday;Apex Flat;Rotator,Voyager,False
+409,Foodie,Rotator;Apex Flat;Bistro,Rotator,False
+410,Foodie,Apex Flat;Bistro;Everyday;Voyager,Apex Flat,False
+411,Family,Apex Flat;Voyager;Rotator;Everyday,Everyday,False
+412,Family,Everyday;Rotator,Rotator,False
+413,Foodie,Voyager;Rotator;Bistro,Bistro,False
+414,Foodie,Rotator;Apex Flat;Bistro;Everyday,Rotator,False
+415,Online Shopper,Bistro;Voyager;Rotator;Apex Flat,Apex Flat,False
+416,Balanced,Bistro;Everyday;Rotator,Everyday,False
+417,Foodie,Apex Flat;Everyday;Voyager;Bistro,Everyday,False
+418,Family,Everyday;Bistro;Apex Flat;Rotator,Apex Flat,False
+419,Traveller,Apex Flat;Everyday;Rotator;Bistro,Rotator,False
+420,Balanced,Voyager;Everyday;Apex Flat;Rotator,Voyager,False
+421,Online Shopper,Apex Flat;Everyday;Bistro,Everyday,False
+422,Online Shopper,Apex Flat;Rotator;Everyday;Bistro,Everyday,False
+423,Traveller,Rotator;Voyager,Rotator,True
+424,Traveller,Voyager;Apex Flat,Apex Flat,False
+425,Foodie,Bistro;Voyager;Everyday;Apex Flat,Bistro,False
+426,Balanced,Everyday;Rotator,Everyday,False
+427,Balanced,Bistro;Everyday,Everyday,False
+428,Foodie,Everyday;Voyager;Rotator,Voyager,False
+429,Online Shopper,Bistro;Rotator,Bistro,False
+430,Foodie,Rotator;Bistro,Bistro,False
+431,Online Shopper,Apex Flat;Rotator;Bistro,Rotator,False
+432,Balanced,Everyday;Rotator,Rotator,False
+433,Foodie,Rotator;Bistro;Apex Flat,Apex Flat,False
+434,Traveller,Voyager;Everyday;Rotator,Everyday,True
+435,Foodie,Bistro;Everyday;Rotator;Apex Flat,Apex Flat,False
+436,Traveller,Apex Flat;Everyday,Apex Flat,False
+437,Balanced,Rotator;Bistro;Voyager;Everyday,Voyager,False
+438,Foodie,Rotator;Voyager;Everyday,Rotator,False
+439,Family,Everyday;Apex Flat;Voyager;Bistro,Voyager,True
+440,Balanced,Voyager;Bistro,Voyager,False
+441,Family,Apex Flat;Everyday,Everyday,True
+442,Foodie,Rotator;Apex Flat,Rotator,False
+443,Traveller,Everyday;Voyager;Rotator,Voyager,False
+444,Traveller,Everyday;Apex Flat,Apex Flat,False
+445,Online Shopper,Voyager;Rotator;Apex Flat,Rotator,False
+446,Family,Apex Flat;Everyday;Voyager,Everyday,False
+447,Balanced,Bistro;Apex Flat,Bistro,False
+448,Traveller,Everyday;Rotator;Voyager;Apex Flat,Voyager,False
+449,Family,Rotator;Apex Flat;Bistro,Bistro,False
+450,Balanced,Bistro;Rotator;Apex Flat,Bistro,False
+451,Balanced,Bistro;Apex Flat,Bistro,False
+452,Traveller,Voyager;Rotator;Bistro,Bistro,False
+453,Foodie,Everyday;Apex Flat,Apex Flat,False
+454,Traveller,Apex Flat;Rotator;Bistro,Rotator,False
+455,Traveller,Voyager;Bistro;Everyday;Rotator,Bistro,False
+456,Foodie,Voyager;Rotator;Everyday,Everyday,False
+457,Online Shopper,Voyager;Apex Flat;Bistro,Bistro,False
+458,Balanced,Bistro;Voyager;Apex Flat,Bistro,False
+459,Foodie,Bistro;Rotator;Voyager;Apex Flat,Apex Flat,False
+460,Online Shopper,Bistro;Everyday,Bistro,False
+461,Foodie,Rotator;Everyday,Rotator,False
+462,Online Shopper,Bistro;Apex Flat,Apex Flat,False
+463,Traveller,Voyager;Bistro,Voyager,False
+464,Foodie,Rotator;Bistro,Rotator,False
+465,Balanced,Everyday;Rotator,Rotator,False
+466,Foodie,Apex Flat;Voyager,Voyager,False
+467,Traveller,Voyager;Everyday;Apex Flat;Bistro,Bistro,False
+468,Foodie,Rotator;Apex Flat;Voyager;Bistro,Bistro,False
+469,Balanced,Voyager;Everyday;Apex Flat,Everyday,False
+470,Online Shopper,Rotator;Bistro;Apex Flat,Rotator,True
+471,Balanced,Apex Flat;Everyday;Bistro,Everyday,True
+472,Traveller,Everyday;Voyager;Bistro,Everyday,False
+473,Traveller,Apex Flat;Everyday;Bistro;Voyager,Bistro,False
+474,Online Shopper,Apex Flat;Rotator;Voyager,Apex Flat,False
+475,Online Shopper,Voyager;Apex Flat;Everyday;Rotator,Everyday,False
+476,Balanced,Apex Flat;Bistro;Everyday;Voyager,Everyday,True
+477,Foodie,Apex Flat;Voyager;Bistro,Bistro,True
+478,Online Shopper,Everyday;Bistro;Rotator,Everyday,False
+479,Foodie,Voyager;Bistro;Everyday;Rotator,Everyday,False
+480,Family,Bistro;Rotator,Rotator,False
+481,Balanced,Voyager;Rotator,Voyager,True
+482,Family,Everyday;Apex Flat,Apex Flat,False
+483,Online Shopper,Bistro;Voyager;Apex Flat;Everyday,Voyager,False
+484,Traveller,Bistro;Everyday;Rotator,Bistro,False
+485,Family,Everyday;Rotator;Bistro;Apex Flat,Rotator,False
+486,Family,Voyager;Apex Flat;Everyday;Bistro,Apex Flat,False
+487,Traveller,Apex Flat;Everyday;Bistro;Voyager,Bistro,False
+488,Online Shopper,Rotator;Everyday;Apex Flat;Bistro,Apex Flat,False
+489,Online Shopper,Bistro;Voyager,Voyager,True
+490,Balanced,Voyager;Everyday,Voyager,False
+491,Balanced,Rotator;Apex Flat,Rotator,False
+492,Online Shopper,Voyager;Everyday,Everyday,True
+493,Online Shopper,Bistro;Everyday,Bistro,False
+494,Family,Everyday;Voyager;Rotator,Voyager,False
+495,Traveller,Apex Flat;Rotator;Voyager;Bistro,Voyager,False
+496,Foodie,Voyager;Apex Flat;Bistro;Everyday,Voyager,False
+497,Family,Apex Flat;Voyager;Everyday,Apex Flat,False
+498,Balanced,Everyday;Rotator;Bistro;Voyager,Rotator,False
+499,Traveller,Voyager;Rotator;Bistro,Voyager,False
+500,Foodie,Voyager;Rotator;Everyday;Bistro,Everyday,False
+501,Online Shopper,Rotator;Voyager;Everyday;Apex Flat,Everyday,False
+502,Balanced,Apex Flat;Bistro;Rotator;Voyager,Bistro,False
+503,Balanced,Everyday;Rotator;Apex Flat;Voyager,Apex Flat,False
+504,Family,Bistro;Everyday,Everyday,False
+505,Traveller,Everyday;Bistro;Apex Flat;Voyager,Everyday,False
+506,Traveller,Apex Flat;Rotator,Apex Flat,False
+507,Family,Apex Flat;Rotator,Rotator,False
+508,Family,Everyday;Rotator,Everyday,False
+509,Family,Rotator;Voyager;Bistro;Apex Flat,Bistro,True
+510,Balanced,Everyday;Rotator,Everyday,False
+511,Online Shopper,Bistro;Everyday;Rotator;Voyager,Voyager,False
+512,Balanced,Bistro;Everyday,Bistro,False
+513,Balanced,Voyager;Bistro,Voyager,False
+514,Balanced,Voyager;Rotator;Everyday,Voyager,False
+515,Foodie,Everyday;Rotator;Voyager,Voyager,False
+516,Balanced,Voyager;Bistro;Rotator;Apex Flat,Bistro,False
+517,Foodie,Voyager;Apex Flat;Rotator;Bistro,Apex Flat,False
+518,Traveller,Voyager;Bistro;Apex Flat,Apex Flat,False
+519,Traveller,Rotator;Bistro,Rotator,False
+520,Family,Apex Flat;Everyday,Apex Flat,False
+521,Foodie,Bistro;Voyager,Voyager,False
+522,Foodie,Rotator;Bistro;Apex Flat,Apex Flat,False
+523,Balanced,Bistro;Voyager,Bistro,False
+524,Family,Rotator;Apex Flat;Everyday,Rotator,True
+525,Family,Voyager;Apex Flat;Rotator;Everyday,Everyday,False
+526,Balanced,Rotator;Everyday,Rotator,False
+527,Foodie,Bistro;Rotator;Voyager;Everyday,Everyday,False
+528,Balanced,Everyday;Apex Flat;Rotator;Voyager,Rotator,False
+529,Balanced,Rotator;Everyday;Bistro;Voyager,Everyday,False
+530,Traveller,Apex Flat;Voyager;Rotator,Voyager,True
+531,Foodie,Bistro;Voyager;Apex Flat;Rotator,Voyager,False
+532,Foodie,Apex Flat;Voyager;Everyday;Rotator,Voyager,True
+533,Family,Rotator;Voyager;Everyday,Everyday,False
+534,Traveller,Bistro;Voyager;Apex Flat,Voyager,True
+535,Foodie,Rotator;Voyager;Everyday,Voyager,False
+536,Traveller,Bistro;Rotator;Voyager,Voyager,False
+537,Foodie,Rotator;Apex Flat,Rotator,False
+538,Traveller,Rotator;Voyager;Everyday;Apex Flat,Apex Flat,False
+539,Foodie,Apex Flat;Rotator,Rotator,False
+540,Online Shopper,Apex Flat;Rotator,Rotator,False
+541,Foodie,Apex Flat;Rotator,Rotator,False
+542,Foodie,Apex Flat;Voyager;Rotator,Apex Flat,False
+543,Foodie,Apex Flat;Bistro;Voyager;Everyday,Voyager,False
+544,Balanced,Everyday;Bistro;Voyager;Rotator,Bistro,False
+545,Foodie,Voyager;Rotator,Voyager,False
+546,Traveller,Apex Flat;Voyager,Voyager,False
+547,Traveller,Voyager;Apex Flat;Bistro;Everyday,Apex Flat,False
+548,Traveller,Bistro;Voyager,Bistro,False
+549,Online Shopper,Rotator;Everyday;Voyager,Rotator,False
+550,Balanced,Apex Flat;Bistro;Everyday,Apex Flat,False
+551,Family,Apex Flat;Rotator;Voyager;Everyday,Everyday,False
+552,Balanced,Rotator;Everyday;Apex Flat,Everyday,False
+553,Family,Rotator;Apex Flat;Voyager;Everyday,Apex Flat,True
+554,Balanced,Apex Flat;Everyday,Apex Flat,False
+555,Traveller,Rotator;Everyday,Everyday,False
+556,Online Shopper,Voyager;Everyday;Apex Flat;Bistro,Apex Flat,True
+557,Balanced,Everyday;Rotator;Bistro;Voyager,Voyager,False
+558,Online Shopper,Voyager;Everyday,Voyager,False
+559,Balanced,Everyday;Apex Flat,Apex Flat,False
+560,Traveller,Everyday;Rotator;Apex Flat,Rotator,False
+561,Foodie,Bistro;Voyager;Everyday;Rotator,Bistro,False
+562,Traveller,Everyday;Bistro;Apex Flat,Bistro,True
+563,Foodie,Voyager;Rotator,Voyager,False
+564,Balanced,Rotator;Apex Flat;Bistro;Voyager,Voyager,False
+565,Family,Bistro;Rotator,Bistro,False
+566,Family,Everyday;Bistro;Apex Flat;Voyager,Apex Flat,False
+567,Family,Rotator;Voyager;Everyday,Voyager,False
+568,Online Shopper,Apex Flat;Voyager;Rotator;Everyday,Rotator,False
+569,Traveller,Voyager;Bistro;Everyday;Apex Flat,Everyday,False
+570,Balanced,Apex Flat;Everyday;Rotator;Bistro,Everyday,True
+571,Traveller,Rotator;Bistro;Everyday;Apex Flat,Bistro,False
+572,Family,Rotator;Apex Flat,Rotator,True
+573,Foodie,Bistro;Apex Flat;Rotator;Everyday,Apex Flat,False
+574,Foodie,Voyager;Rotator,Rotator,False
+575,Family,Apex Flat;Voyager;Bistro;Everyday,Apex Flat,False
+576,Balanced,Voyager;Everyday,Voyager,True
+577,Traveller,Rotator;Voyager;Bistro;Everyday,Bistro,False
+578,Balanced,Everyday;Apex Flat;Rotator,Everyday,False
+579,Foodie,Bistro;Apex Flat;Everyday;Rotator,Everyday,True
+580,Foodie,Bistro;Voyager;Rotator,Voyager,False
+581,Balanced,Apex Flat;Rotator;Voyager,Apex Flat,False
+582,Foodie,Rotator;Apex Flat,Rotator,False
+583,Foodie,Rotator;Bistro,Bistro,False
+584,Traveller,Voyager;Bistro,Voyager,False
+585,Balanced,Apex Flat;Bistro;Voyager,Apex Flat,False
+586,Online Shopper,Bistro;Rotator;Apex Flat,Rotator,False
+587,Foodie,Voyager;Everyday,Voyager,False
+588,Balanced,Rotator;Bistro,Rotator,False
+589,Balanced,Apex Flat;Bistro,Apex Flat,False
+590,Balanced,Bistro;Apex Flat;Voyager;Everyday,Voyager,False
+591,Balanced,Rotator;Everyday;Apex Flat;Voyager,Voyager,False
+592,Family,Bistro;Rotator;Everyday,Everyday,False
+593,Balanced,Everyday;Bistro;Voyager;Rotator,Voyager,False
+594,Family,Apex Flat;Everyday,Everyday,False
+595,Balanced,Voyager;Apex Flat;Rotator;Bistro,Voyager,False
+596,Traveller,Bistro;Everyday;Rotator,Rotator,False
+597,Online Shopper,Voyager;Bistro;Rotator,Rotator,True
+598,Online Shopper,Apex Flat;Rotator;Everyday;Bistro,Everyday,False
+599,Online Shopper,Bistro;Everyday;Voyager,Voyager,False
+600,Online Shopper,Apex Flat;Everyday,Everyday,False
+601,Online Shopper,Apex Flat;Rotator;Bistro,Rotator,False
+602,Online Shopper,Apex Flat;Voyager;Rotator;Everyday,Apex Flat,False
+603,Foodie,Rotator;Everyday;Voyager;Apex Flat,Voyager,False
+604,Balanced,Voyager;Rotator;Everyday;Apex Flat,Everyday,False
+605,Traveller,Rotator;Everyday;Bistro;Voyager,Voyager,False
+606,Family,Apex Flat;Rotator;Voyager;Bistro,Apex Flat,False
+607,Traveller,Bistro;Rotator,Bistro,False
+608,Balanced,Rotator;Apex Flat,Rotator,False
+609,Balanced,Apex Flat;Bistro,Bistro,False
+610,Balanced,Bistro;Rotator,Bistro,False
+611,Traveller,Bistro;Apex Flat,Bistro,False
+612,Online Shopper,Bistro;Voyager,Bistro,False
+613,Family,Voyager;Apex Flat,Voyager,False
+614,Online Shopper,Rotator;Voyager;Bistro;Apex Flat,Voyager,False
+615,Online Shopper,Rotator;Everyday,Everyday,False
+616,Family,Rotator;Voyager;Bistro;Apex Flat,Rotator,False
+617,Family,Rotator;Voyager,Rotator,True
+618,Foodie,Apex Flat;Voyager;Rotator;Bistro,Voyager,True
+619,Foodie,Everyday;Bistro;Rotator,Rotator,False
+620,Traveller,Bistro;Rotator;Everyday,Everyday,False
+621,Traveller,Apex Flat;Everyday;Bistro;Voyager,Everyday,True
+622,Foodie,Everyday;Voyager;Rotator,Rotator,False
+623,Traveller,Voyager;Everyday,Voyager,False
+624,Online Shopper,Bistro;Everyday;Apex Flat;Voyager,Everyday,False
+625,Family,Apex Flat;Everyday;Rotator,Apex Flat,False
+626,Family,Bistro;Apex Flat;Everyday;Voyager,Bistro,False
+627,Family,Bistro;Everyday;Rotator;Voyager,Voyager,False
+628,Traveller,Rotator;Apex Flat;Bistro,Bistro,False
+629,Family,Everyday;Rotator;Bistro;Voyager,Everyday,False
+630,Online Shopper,Bistro;Voyager,Voyager,True
+631,Family,Apex Flat;Bistro;Rotator;Voyager,Bistro,False
+632,Traveller,Apex Flat;Voyager,Voyager,False
+633,Family,Bistro;Everyday;Voyager;Rotator,Voyager,False
+634,Foodie,Bistro;Voyager,Bistro,False
+635,Online Shopper,Rotator;Voyager;Everyday,Rotator,True
+636,Family,Apex Flat;Everyday,Apex Flat,False
+637,Family,Voyager;Apex Flat;Rotator;Everyday,Voyager,False
+638,Online Shopper,Voyager;Apex Flat;Rotator;Bistro,Rotator,True
+639,Balanced,Everyday;Apex Flat;Voyager;Bistro,Bistro,False
+640,Online Shopper,Voyager;Apex Flat;Everyday,Everyday,False
+641,Balanced,Rotator;Everyday;Voyager,Rotator,False
+642,Balanced,Everyday;Voyager;Bistro;Apex Flat,Apex Flat,False
+643,Traveller,Apex Flat;Bistro;Rotator;Voyager,Rotator,False
+644,Online Shopper,Bistro;Voyager;Apex Flat,Apex Flat,True
+645,Family,Bistro;Rotator;Everyday;Apex Flat,Bistro,False
+646,Traveller,Bistro;Rotator,Bistro,False
+647,Traveller,Voyager;Apex Flat;Bistro;Everyday,Voyager,False
+648,Balanced,Bistro;Rotator;Everyday,Rotator,False
+649,Balanced,Rotator;Bistro,Rotator,False
+650,Traveller,Rotator;Apex Flat;Voyager,Rotator,False
+651,Online Shopper,Rotator;Bistro;Apex Flat;Everyday,Rotator,False
+652,Family,Rotator;Voyager;Everyday,Everyday,False
+653,Balanced,Voyager;Everyday;Apex Flat,Everyday,False
+654,Traveller,Everyday;Apex Flat;Rotator,Rotator,False
+655,Traveller,Voyager;Bistro,Bistro,False
+656,Online Shopper,Voyager;Rotator;Apex Flat;Bistro,Rotator,False
+657,Online Shopper,Bistro;Voyager;Rotator,Voyager,False
+658,Foodie,Everyday;Bistro;Voyager,Bistro,False
+659,Family,Bistro;Everyday;Voyager;Rotator,Rotator,False
+660,Foodie,Apex Flat;Voyager;Bistro,Apex Flat,False
+661,Online Shopper,Apex Flat;Everyday;Voyager,Voyager,False
+662,Foodie,Bistro;Everyday;Voyager;Apex Flat,Everyday,False
+663,Family,Everyday;Bistro;Apex Flat;Rotator,Rotator,False
+664,Traveller,Bistro;Voyager,Bistro,False
+665,Online Shopper,Everyday;Rotator;Apex Flat,Everyday,True
+666,Traveller,Apex Flat;Rotator,Rotator,False
+667,Balanced,Voyager;Everyday,Voyager,False
+668,Balanced,Apex Flat;Bistro;Everyday;Rotator,Apex Flat,False
+669,Foodie,Apex Flat;Voyager;Everyday,Voyager,False
+670,Balanced,Voyager;Rotator,Rotator,False
+671,Online Shopper,Rotator;Bistro,Rotator,False
+672,Online Shopper,Rotator;Bistro;Voyager;Everyday,Rotator,False
+673,Foodie,Bistro;Apex Flat,Apex Flat,False
+674,Online Shopper,Everyday;Voyager;Bistro;Rotator,Voyager,False
+675,Online Shopper,Apex Flat;Bistro;Rotator,Rotator,False
+676,Traveller,Voyager;Bistro;Apex Flat;Everyday,Bistro,False
+677,Foodie,Voyager;Bistro;Apex Flat;Rotator,Apex Flat,False
+678,Traveller,Apex Flat;Everyday;Bistro;Voyager,Bistro,False
+679,Balanced,Voyager;Everyday,Voyager,False
+680,Online Shopper,Apex Flat;Voyager;Rotator;Everyday,Apex Flat,False
+681,Foodie,Voyager;Apex Flat;Everyday;Bistro,Bistro,False
+682,Balanced,Voyager;Everyday;Apex Flat,Everyday,False
+683,Balanced,Rotator;Apex Flat;Voyager,Apex Flat,False
+684,Foodie,Voyager;Apex Flat,Voyager,False
+685,Balanced,Apex Flat;Bistro;Everyday;Voyager,Voyager,False
+686,Traveller,Apex Flat;Bistro,Bistro,False
+687,Traveller,Apex Flat;Everyday,Everyday,False
+688,Traveller,Bistro;Everyday,Everyday,False
+689,Online Shopper,Rotator;Bistro;Voyager,Bistro,False
+690,Balanced,Bistro;Rotator,Rotator,False
+691,Online Shopper,Voyager;Everyday;Apex Flat;Rotator,Everyday,False
+692,Balanced,Rotator;Everyday;Bistro,Everyday,False
+693,Balanced,Apex Flat;Voyager;Everyday;Rotator,Everyday,False
+694,Foodie,Rotator;Apex Flat,Rotator,False
+695,Family,Everyday;Apex Flat;Voyager;Bistro,Apex Flat,False
+696,Online Shopper,Everyday;Apex Flat,Everyday,False
+697,Traveller,Apex Flat;Voyager;Everyday,Everyday,False
+698,Foodie,Bistro;Voyager;Rotator,Voyager,True
+699,Foodie,Voyager;Everyday,Everyday,True
+700,Traveller,Voyager;Apex Flat;Bistro,Bistro,False
+701,Online Shopper,Rotator;Everyday;Voyager,Rotator,True
+702,Foodie,Voyager;Everyday,Everyday,True
+703,Foodie,Everyday;Bistro;Rotator,Bistro,False
+704,Foodie,Everyday;Apex Flat;Bistro,Everyday,False
+705,Traveller,Bistro;Apex Flat;Voyager,Bistro,False
+706,Foodie,Rotator;Voyager,Rotator,False
+707,Traveller,Voyager;Rotator;Bistro,Rotator,False
+708,Traveller,Apex Flat;Bistro,Apex Flat,True
+709,Traveller,Rotator;Bistro,Rotator,False
+710,Online Shopper,Apex Flat;Bistro;Rotator,Apex Flat,False
+711,Traveller,Apex Flat;Bistro;Voyager;Rotator,Rotator,False
+712,Online Shopper,Apex Flat;Rotator;Everyday,Rotator,False
+713,Online Shopper,Apex Flat;Rotator;Everyday,Rotator,False
+714,Balanced,Rotator;Apex Flat,Apex Flat,False
+715,Online Shopper,Bistro;Rotator;Everyday;Apex Flat,Bistro,False
+716,Traveller,Voyager;Bistro,Bistro,False
+717,Traveller,Everyday;Voyager;Bistro;Apex Flat,Voyager,False
+718,Family,Rotator;Everyday;Voyager,Everyday,False
+719,Traveller,Everyday;Voyager;Bistro;Rotator,Everyday,False
+720,Foodie,Everyday;Bistro;Voyager;Apex Flat,Voyager,False
+721,Balanced,Everyday;Rotator;Voyager;Apex Flat,Rotator,False
+722,Balanced,Rotator;Everyday,Everyday,False
+723,Foodie,Apex Flat;Bistro,Apex Flat,False
+724,Online Shopper,Everyday;Bistro,Bistro,False
+725,Foodie,Apex Flat;Bistro;Everyday;Voyager,Everyday,False
+726,Online Shopper,Rotator;Everyday,Everyday,False
+727,Foodie,Bistro;Voyager;Everyday;Apex Flat,Apex Flat,False
+728,Traveller,Everyday;Rotator,Rotator,False
+729,Online Shopper,Bistro;Voyager,Bistro,False
+730,Online Shopper,Bistro;Voyager;Rotator,Bistro,False
+731,Traveller,Voyager;Everyday;Rotator,Everyday,False
+732,Balanced,Everyday;Apex Flat,Everyday,False
+733,Online Shopper,Apex Flat;Voyager,Apex Flat,True
+734,Family,Rotator;Bistro;Everyday,Everyday,False
+735,Online Shopper,Everyday;Bistro,Bistro,False
+736,Online Shopper,Apex Flat;Voyager;Bistro;Rotator,Bistro,False
+737,Family,Apex Flat;Rotator;Bistro,Apex Flat,False
+738,Online Shopper,Everyday;Rotator,Rotator,True
+739,Balanced,Apex Flat;Bistro,Bistro,False
+740,Balanced,Voyager;Bistro;Apex Flat;Everyday,Apex Flat,False
+741,Online Shopper,Rotator;Voyager,Rotator,True
+742,Online Shopper,Everyday;Bistro;Voyager;Apex Flat,Voyager,False
+743,Family,Everyday;Rotator,Everyday,False
+744,Online Shopper,Everyday;Voyager;Rotator,Rotator,False
+745,Family,Rotator;Bistro;Voyager;Apex Flat,Voyager,False
+746,Traveller,Apex Flat;Rotator;Bistro;Everyday,Rotator,False
+747,Family,Bistro;Apex Flat;Everyday;Rotator,Rotator,False
+748,Family,Voyager;Rotator;Bistro;Apex Flat,Rotator,False
+749,Foodie,Bistro;Rotator;Everyday,Rotator,False
+750,Balanced,Everyday;Apex Flat,Apex Flat,False
+751,Foodie,Rotator;Bistro;Everyday,Bistro,False
+752,Foodie,Rotator;Bistro,Bistro,False
+753,Balanced,Apex Flat;Everyday,Apex Flat,False
+754,Traveller,Everyday;Rotator;Voyager;Apex Flat,Everyday,True
+755,Traveller,Rotator;Apex Flat;Everyday;Bistro,Rotator,False
+756,Online Shopper,Everyday;Bistro;Rotator;Voyager,Rotator,False
+757,Family,Rotator;Voyager,Voyager,False
+758,Foodie,Voyager;Apex Flat,Voyager,False
+759,Online Shopper,Bistro;Voyager;Everyday;Apex Flat,Bistro,False
+760,Foodie,Everyday;Rotator;Apex Flat;Bistro,Rotator,True
+761,Traveller,Apex Flat;Voyager;Rotator,Rotator,False
+762,Balanced,Rotator;Apex Flat;Everyday,Everyday,False
+763,Balanced,Bistro;Voyager;Rotator;Everyday,Everyday,False
+764,Family,Apex Flat;Voyager,Voyager,False
+765,Online Shopper,Bistro;Everyday;Voyager,Voyager,False
+766,Online Shopper,Voyager;Everyday;Apex Flat,Apex Flat,False
+767,Traveller,Rotator;Apex Flat;Bistro,Rotator,False
+768,Foodie,Everyday;Apex Flat;Rotator,Everyday,False
+769,Family,Everyday;Voyager,Everyday,True
+770,Online Shopper,Bistro;Apex Flat;Rotator,Bistro,False
+771,Balanced,Voyager;Everyday;Bistro;Apex Flat,Voyager,False
+772,Foodie,Bistro;Everyday;Rotator;Apex Flat,Everyday,False
+773,Online Shopper,Everyday;Bistro;Apex Flat;Rotator,Rotator,False
+774,Balanced,Voyager;Rotator;Apex Flat;Bistro,Voyager,True
+775,Balanced,Bistro;Everyday;Apex Flat,Bistro,False
+776,Traveller,Bistro;Rotator;Apex Flat,Rotator,False
+777,Foodie,Everyday;Apex Flat;Rotator;Bistro,Bistro,False
+778,Family,Everyday;Bistro,Bistro,False
+779,Balanced,Bistro;Everyday,Bistro,False
+780,Balanced,Apex Flat;Bistro;Rotator;Voyager,Bistro,False
+781,Online Shopper,Bistro;Rotator,Bistro,False
+782,Foodie,Rotator;Apex Flat;Bistro,Rotator,False
+783,Foodie,Voyager;Apex Flat,Apex Flat,True
+784,Traveller,Everyday;Apex Flat;Voyager;Bistro,Everyday,False
+785,Traveller,Everyday;Voyager,Voyager,False
+786,Foodie,Bistro;Apex Flat;Voyager,Bistro,False
+787,Online Shopper,Apex Flat;Bistro;Everyday,Everyday,False
+788,Traveller,Everyday;Apex Flat;Rotator;Bistro,Everyday,False
+789,Foodie,Apex Flat;Everyday;Voyager,Voyager,False
+790,Foodie,Bistro;Voyager;Apex Flat;Everyday,Bistro,False
+791,Traveller,Voyager;Rotator,Rotator,False
+792,Online Shopper,Rotator;Voyager;Everyday;Bistro,Bistro,False
+793,Balanced,Apex Flat;Everyday;Rotator;Voyager,Voyager,False
+794,Traveller,Apex Flat;Everyday,Everyday,False
+795,Family,Voyager;Bistro,Voyager,True
+796,Balanced,Everyday;Apex Flat;Voyager;Bistro,Bistro,False
+797,Traveller,Rotator;Voyager,Voyager,False
+798,Family,Voyager;Apex Flat;Bistro,Bistro,False
+799,Traveller,Everyday;Bistro,Everyday,True
+800,Foodie,Bistro;Rotator;Everyday,Everyday,False
+801,Family,Apex Flat;Rotator;Voyager,Rotator,False
+802,Traveller,Bistro;Rotator,Bistro,False
+803,Balanced,Rotator;Voyager;Everyday,Everyday,False
+804,Online Shopper,Rotator;Everyday;Bistro,Bistro,False
+805,Online Shopper,Bistro;Apex Flat;Voyager,Voyager,False
+806,Traveller,Everyday;Bistro;Apex Flat;Voyager,Everyday,False
+807,Foodie,Apex Flat;Rotator,Rotator,False
+808,Family,Everyday;Rotator;Voyager,Voyager,False
+809,Balanced,Bistro;Apex Flat;Rotator,Apex Flat,False
+810,Foodie,Rotator;Bistro,Rotator,False
+811,Balanced,Rotator;Bistro;Everyday;Apex Flat,Rotator,True
+812,Online Shopper,Rotator;Apex Flat;Voyager,Apex Flat,False
+813,Family,Voyager;Rotator;Apex Flat,Voyager,False
+814,Online Shopper,Rotator;Apex Flat,Rotator,False
+815,Balanced,Bistro;Apex Flat;Everyday,Bistro,False
+816,Foodie,Bistro;Rotator,Rotator,False
+817,Foodie,Rotator;Apex Flat;Everyday,Everyday,True
+818,Online Shopper,Voyager;Rotator;Bistro,Voyager,False
+819,Balanced,Everyday;Apex Flat;Rotator;Voyager,Voyager,False
+820,Foodie,Everyday;Rotator;Bistro,Everyday,False
+821,Online Shopper,Apex Flat;Voyager;Bistro,Voyager,False
+822,Foodie,Voyager;Apex Flat;Rotator;Everyday,Rotator,False
+823,Online Shopper,Bistro;Apex Flat;Voyager;Rotator,Voyager,False
+824,Online Shopper,Voyager;Bistro;Everyday,Voyager,False
+825,Foodie,Apex Flat;Bistro,Apex Flat,False
+826,Online Shopper,Bistro;Everyday;Apex Flat,Apex Flat,True
+827,Balanced,Bistro;Everyday;Apex Flat,Everyday,False
+828,Balanced,Bistro;Everyday;Rotator;Apex Flat,Bistro,False
+829,Foodie,Bistro;Apex Flat,Bistro,False
+830,Family,Bistro;Apex Flat;Rotator,Rotator,False
+831,Family,Rotator;Everyday;Apex Flat,Rotator,False
+832,Traveller,Rotator;Voyager;Everyday;Bistro,Rotator,False
+833,Foodie,Apex Flat;Bistro,Apex Flat,False
+834,Balanced,Apex Flat;Rotator;Bistro,Apex Flat,False
+835,Online Shopper,Rotator;Apex Flat,Rotator,True
+836,Balanced,Bistro;Rotator;Voyager;Everyday,Rotator,False
+837,Foodie,Bistro;Everyday,Everyday,False
+838,Foodie,Rotator;Everyday;Voyager,Voyager,False
+839,Balanced,Apex Flat;Rotator,Rotator,False
+840,Family,Bistro;Rotator;Apex Flat;Voyager,Rotator,False
+841,Online Shopper,Bistro;Rotator,Bistro,False
+842,Balanced,Everyday;Voyager;Apex Flat,Everyday,False
+843,Foodie,Rotator;Apex Flat;Voyager,Rotator,True
+844,Foodie,Rotator;Apex Flat,Apex Flat,False
+845,Foodie,Apex Flat;Everyday;Rotator;Bistro,Rotator,False
+846,Foodie,Everyday;Bistro;Rotator,Rotator,False
+847,Foodie,Everyday;Apex Flat,Everyday,False
+848,Balanced,Rotator;Everyday,Rotator,False
+849,Online Shopper,Bistro;Voyager,Voyager,False
+850,Balanced,Rotator;Everyday;Voyager;Apex Flat,Voyager,False
+851,Balanced,Bistro;Voyager;Rotator,Voyager,False
+852,Balanced,Bistro;Rotator;Everyday;Apex Flat,Rotator,True
+853,Family,Apex Flat;Bistro;Voyager,Bistro,False
+854,Family,Voyager;Bistro,Voyager,False
+855,Balanced,Apex Flat;Bistro;Everyday,Bistro,False
+856,Family,Bistro;Apex Flat;Everyday;Rotator,Rotator,False
+857,Foodie,Apex Flat;Voyager,Voyager,False
+858,Online Shopper,Apex Flat;Rotator;Everyday;Bistro,Rotator,False
+859,Balanced,Bistro;Rotator;Voyager;Apex Flat,Voyager,True
+860,Balanced,Rotator;Voyager,Rotator,False
+861,Balanced,Bistro;Everyday;Rotator;Apex Flat,Apex Flat,False
+862,Foodie,Rotator;Bistro;Voyager;Apex Flat,Bistro,False
+863,Online Shopper,Bistro;Rotator,Rotator,False
+864,Balanced,Everyday;Bistro;Rotator;Voyager,Voyager,False
+865,Online Shopper,Apex Flat;Bistro;Voyager,Apex Flat,False
+866,Balanced,Everyday;Bistro;Voyager;Rotator,Rotator,False
+867,Balanced,Bistro;Rotator;Everyday;Voyager,Everyday,False
+868,Traveller,Apex Flat;Voyager;Rotator,Apex Flat,True
+869,Foodie,Apex Flat;Rotator;Bistro;Voyager,Voyager,False
+870,Traveller,Rotator;Apex Flat;Voyager,Apex Flat,False
+871,Family,Apex Flat;Everyday,Everyday,False
+872,Foodie,Rotator;Bistro,Rotator,False
+873,Foodie,Rotator;Voyager;Apex Flat,Apex Flat,False
+874,Online Shopper,Voyager;Bistro,Bistro,False
+875,Traveller,Apex Flat;Bistro;Everyday;Rotator,Everyday,False
+876,Traveller,Voyager;Apex Flat;Rotator;Bistro,Voyager,False
+877,Online Shopper,Apex Flat;Everyday,Everyday,False
+878,Traveller,Bistro;Everyday;Apex Flat;Voyager,Voyager,False
+879,Online Shopper,Apex Flat;Rotator,Rotator,False
+880,Foodie,Bistro;Apex Flat,Bistro,False
+881,Balanced,Bistro;Voyager;Everyday;Apex Flat,Bistro,False
+882,Traveller,Apex Flat;Bistro;Everyday;Rotator,Apex Flat,False
+883,Foodie,Voyager;Apex Flat,Apex Flat,False
+884,Balanced,Voyager;Apex Flat,Voyager,False
+885,Online Shopper,Bistro;Apex Flat;Rotator,Bistro,False
+886,Foodie,Everyday;Rotator;Voyager,Rotator,False
+887,Foodie,Rotator;Bistro;Apex Flat;Everyday,Everyday,False
+888,Foodie,Everyday;Voyager;Bistro;Apex Flat,Apex Flat,False
+889,Family,Everyday;Rotator;Bistro,Rotator,False
+890,Foodie,Voyager;Rotator,Voyager,False
+891,Online Shopper,Bistro;Voyager,Voyager,False
+892,Traveller,Bistro;Apex Flat,Apex Flat,False
+893,Balanced,Everyday;Bistro;Voyager;Apex Flat,Everyday,False
+894,Online Shopper,Everyday;Apex Flat,Apex Flat,False
+895,Online Shopper,Rotator;Apex Flat;Everyday,Rotator,False
+896,Traveller,Apex Flat;Voyager,Voyager,False
+897,Foodie,Rotator;Apex Flat;Bistro;Voyager,Rotator,False
+898,Foodie,Everyday;Rotator;Voyager,Voyager,False
+899,Online Shopper,Voyager;Apex Flat,Apex Flat,False
+900,Foodie,Everyday;Voyager,Everyday,True
+901,Foodie,Rotator;Bistro,Bistro,False
+902,Family,Everyday;Apex Flat;Voyager,Voyager,False
+903,Balanced,Rotator;Voyager,Rotator,False
+904,Traveller,Apex Flat;Everyday;Rotator;Voyager,Apex Flat,False
+905,Online Shopper,Everyday;Apex Flat;Voyager,Everyday,False
+906,Traveller,Everyday;Bistro;Rotator;Apex Flat,Rotator,False
+907,Foodie,Everyday;Bistro;Apex Flat,Bistro,False
+908,Family,Apex Flat;Everyday;Bistro;Voyager,Everyday,False
+909,Foodie,Voyager;Bistro,Bistro,False
+910,Online Shopper,Apex Flat;Bistro;Rotator;Voyager,Bistro,False
+911,Foodie,Voyager;Bistro,Voyager,False
+912,Family,Rotator;Voyager;Bistro,Rotator,False
+913,Balanced,Rotator;Bistro;Everyday;Apex Flat,Everyday,False
+914,Traveller,Everyday;Bistro;Voyager;Rotator,Bistro,False
+915,Traveller,Voyager;Everyday,Voyager,True
+916,Traveller,Bistro;Apex Flat;Rotator;Everyday,Bistro,False
+917,Online Shopper,Voyager;Bistro;Everyday;Apex Flat,Everyday,False
+918,Family,Apex Flat;Rotator,Apex Flat,False
+919,Online Shopper,Everyday;Rotator;Voyager;Bistro,Rotator,True
+920,Balanced,Everyday;Rotator;Bistro;Voyager,Bistro,False
+921,Traveller,Bistro;Apex Flat;Voyager,Apex Flat,False
+922,Traveller,Voyager;Apex Flat,Voyager,False
+923,Foodie,Apex Flat;Bistro,Apex Flat,False
+924,Family,Bistro;Apex Flat;Voyager;Everyday,Voyager,False
+925,Balanced,Rotator;Bistro;Everyday,Rotator,False
+926,Traveller,Apex Flat;Bistro;Voyager,Voyager,False
+927,Family,Bistro;Voyager;Rotator,Voyager,False
+928,Traveller,Voyager;Apex Flat;Bistro,Voyager,False
+929,Traveller,Rotator;Bistro,Rotator,False
+930,Traveller,Everyday;Rotator,Everyday,False
+931,Online Shopper,Bistro;Rotator;Apex Flat;Everyday,Apex Flat,True
+932,Family,Voyager;Bistro;Everyday;Apex Flat,Everyday,False
+933,Online Shopper,Everyday;Rotator;Apex Flat;Bistro,Rotator,False
+934,Traveller,Apex Flat;Rotator,Rotator,False
+935,Balanced,Voyager;Rotator,Rotator,False
+936,Foodie,Voyager;Everyday;Bistro;Apex Flat,Apex Flat,False
+937,Foodie,Voyager;Apex Flat;Rotator;Bistro,Voyager,False
+938,Traveller,Voyager;Everyday;Bistro;Apex Flat,Bistro,False
+939,Traveller,Apex Flat;Rotator;Bistro;Voyager,Voyager,False
+940,Online Shopper,Voyager;Apex Flat,Apex Flat,False
+941,Traveller,Everyday;Apex Flat,Everyday,False
+942,Balanced,Apex Flat;Everyday,Apex Flat,False
+943,Traveller,Apex Flat;Voyager,Apex Flat,False
+944,Foodie,Everyday;Bistro;Voyager,Bistro,True
+945,Foodie,Voyager;Bistro;Everyday;Apex Flat,Apex Flat,False
+946,Balanced,Rotator;Voyager,Rotator,False
+947,Foodie,Rotator;Voyager;Everyday,Rotator,False
+948,Balanced,Everyday;Rotator;Apex Flat;Voyager,Everyday,False
+949,Family,Rotator;Everyday;Voyager,Voyager,False
+950,Foodie,Apex Flat;Everyday,Apex Flat,False
+951,Family,Everyday;Bistro;Rotator;Apex Flat,Everyday,False
+952,Online Shopper,Bistro;Rotator;Everyday,Bistro,False
+953,Traveller,Bistro;Voyager;Rotator;Apex Flat,Voyager,False
+954,Online Shopper,Everyday;Apex Flat;Bistro;Voyager,Apex Flat,False
+955,Online Shopper,Bistro;Voyager;Everyday,Voyager,False
+956,Traveller,Bistro;Rotator;Everyday;Voyager,Everyday,False
+957,Online Shopper,Everyday;Voyager;Rotator,Voyager,False
+958,Balanced,Apex Flat;Bistro;Rotator,Apex Flat,False
+959,Traveller,Voyager;Rotator,Rotator,True
+960,Foodie,Everyday;Bistro;Voyager,Everyday,False
+961,Traveller,Apex Flat;Bistro;Voyager,Apex Flat,False
+962,Balanced,Everyday;Bistro,Everyday,False
+963,Family,Everyday;Bistro;Rotator;Apex Flat,Apex Flat,False
+964,Balanced,Everyday;Apex Flat,Everyday,False
+965,Traveller,Rotator;Bistro,Bistro,False
+966,Online Shopper,Bistro;Everyday;Apex Flat;Rotator,Apex Flat,False
+967,Family,Everyday;Rotator,Rotator,False
+968,Balanced,Everyday;Apex Flat,Everyday,False
+969,Foodie,Apex Flat;Everyday;Rotator,Apex Flat,False
+970,Family,Everyday;Bistro,Bistro,False
+971,Traveller,Everyday;Voyager;Apex Flat;Bistro,Bistro,False
+972,Traveller,Everyday;Rotator;Apex Flat,Rotator,True
+973,Traveller,Voyager;Everyday,Everyday,False
+974,Foodie,Apex Flat;Voyager,Apex Flat,False
+975,Family,Rotator;Apex Flat;Voyager,Rotator,False
+976,Foodie,Everyday;Voyager;Rotator;Apex Flat,Everyday,False
+977,Traveller,Rotator;Everyday;Voyager,Rotator,False
+978,Family,Everyday;Apex Flat;Rotator,Rotator,False
+979,Traveller,Rotator;Everyday;Apex Flat;Bistro,Everyday,False
+980,Traveller,Rotator;Everyday;Voyager,Everyday,True
+981,Online Shopper,Rotator;Apex Flat;Voyager;Everyday,Rotator,False
+982,Traveller,Everyday;Apex Flat;Voyager;Rotator,Rotator,False
+983,Online Shopper,Voyager;Rotator;Bistro,Rotator,False
+984,Traveller,Rotator;Everyday,Rotator,False
+985,Online Shopper,Apex Flat;Bistro;Voyager,Voyager,False
+986,Online Shopper,Everyday;Bistro;Voyager;Apex Flat,Voyager,False
+987,Family,Apex Flat;Voyager;Rotator,Rotator,False
+988,Family,Rotator;Apex Flat,Rotator,True
+989,Online Shopper,Bistro;Everyday;Rotator,Rotator,False
+990,Family,Rotator;Bistro;Voyager,Bistro,False
+991,Traveller,Voyager;Bistro;Everyday;Rotator,Voyager,False
+992,Foodie,Everyday;Voyager,Voyager,False
+993,Traveller,Everyday;Rotator;Apex Flat;Bistro,Apex Flat,False
+994,Traveller,Everyday;Bistro;Voyager;Apex Flat,Everyday,False
+995,Online Shopper,Voyager;Apex Flat;Bistro;Rotator,Rotator,False
+996,Traveller,Everyday;Bistro;Voyager;Apex Flat,Bistro,False
+997,Family,Rotator;Apex Flat,Rotator,False
+998,Balanced,Rotator;Bistro,Rotator,False
+999,Traveller,Apex Flat;Everyday;Voyager;Bistro,Everyday,False
+1000,Balanced,Bistro;Everyday;Apex Flat;Rotator,Bistro,True
+1001,Online Shopper,Apex Flat;Rotator;Voyager,Rotator,False
+1002,Traveller,Everyday;Apex Flat,Apex Flat,True
+1003,Balanced,Bistro;Apex Flat,Bistro,False
+1004,Foodie,Voyager;Apex Flat;Bistro;Everyday,Apex Flat,False
+1005,Balanced,Voyager;Apex Flat,Apex Flat,False
+1006,Balanced,Rotator;Bistro;Apex Flat,Bistro,False
+1007,Traveller,Apex Flat;Everyday;Bistro,Everyday,False
+1008,Online Shopper,Rotator;Bistro;Voyager;Everyday,Bistro,False
+1009,Traveller,Rotator;Bistro;Voyager,Rotator,False
+1010,Family,Apex Flat;Everyday;Voyager;Rotator,Voyager,False
+1011,Online Shopper,Apex Flat;Bistro;Voyager,Voyager,False
+1012,Family,Apex Flat;Bistro;Everyday,Apex Flat,False
+1013,Family,Voyager;Bistro;Rotator;Everyday,Rotator,False
+1014,Traveller,Everyday;Voyager,Voyager,False
+1015,Balanced,Everyday;Apex Flat,Apex Flat,False
+1016,Family,Rotator;Bistro;Everyday,Bistro,True
+1017,Traveller,Everyday;Rotator;Apex Flat,Rotator,False
+1018,Foodie,Voyager;Apex Flat;Bistro,Bistro,False
+1019,Foodie,Everyday;Rotator;Apex Flat,Rotator,False
+1020,Foodie,Everyday;Bistro,Everyday,False
+1021,Foodie,Bistro;Everyday;Voyager,Bistro,False
+1022,Balanced,Bistro;Apex Flat;Voyager;Rotator,Rotator,True
+1023,Balanced,Rotator;Voyager,Voyager,False
+1024,Balanced,Bistro;Rotator;Apex Flat;Everyday,Rotator,False
+1025,Foodie,Bistro;Rotator;Everyday,Everyday,False
+1026,Foodie,Rotator;Bistro;Voyager;Apex Flat,Voyager,False
+1027,Family,Everyday;Bistro,Everyday,True
+1028,Traveller,Everyday;Voyager;Bistro;Apex Flat,Apex Flat,False
+1029,Family,Apex Flat;Everyday;Voyager;Bistro,Apex Flat,False
+1030,Traveller,Voyager;Rotator;Everyday,Rotator,False
+1031,Foodie,Apex Flat;Voyager,Voyager,False
+1032,Online Shopper,Bistro;Rotator,Bistro,True
+1033,Family,Rotator;Voyager;Everyday;Apex Flat,Voyager,False
+1034,Foodie,Voyager;Apex Flat,Voyager,True
+1035,Online Shopper,Bistro;Rotator;Everyday;Voyager,Bistro,False
+1036,Balanced,Apex Flat;Bistro,Apex Flat,False
+1037,Foodie,Apex Flat;Voyager;Bistro;Rotator,Voyager,True
+1038,Traveller,Voyager;Everyday;Apex Flat;Rotator,Rotator,False
+1039,Balanced,Bistro;Voyager;Apex Flat,Voyager,True
+1040,Online Shopper,Apex Flat;Voyager;Bistro;Rotator,Voyager,False
+1041,Balanced,Everyday;Bistro;Apex Flat,Apex Flat,False
+1042,Traveller,Voyager;Everyday;Rotator;Apex Flat,Everyday,False
+1043,Family,Bistro;Voyager;Rotator,Voyager,False
+1044,Online Shopper,Apex Flat;Rotator;Everyday,Apex Flat,False
+1045,Foodie,Voyager;Apex Flat,Apex Flat,False
+1046,Family,Everyday;Voyager;Apex Flat;Rotator,Rotator,False
+1047,Online Shopper,Rotator;Apex Flat;Bistro,Rotator,False
+1048,Online Shopper,Bistro;Everyday;Voyager,Everyday,False
+1049,Foodie,Voyager;Everyday;Rotator;Apex Flat,Voyager,False
+1050,Traveller,Rotator;Voyager;Bistro,Voyager,True
+1051,Family,Bistro;Everyday;Voyager,Voyager,False
+1052,Traveller,Rotator;Bistro;Voyager,Rotator,False
+1053,Balanced,Apex Flat;Bistro;Voyager;Rotator,Bistro,False
+1054,Foodie,Bistro;Voyager;Rotator,Voyager,False
+1055,Balanced,Bistro;Rotator;Apex Flat,Bistro,False
+1056,Traveller,Apex Flat;Voyager;Rotator;Everyday,Apex Flat,False
+1057,Online Shopper,Everyday;Apex Flat,Everyday,False
+1058,Traveller,Apex Flat;Bistro;Rotator;Everyday,Everyday,False
+1059,Family,Apex Flat;Everyday;Bistro,Everyday,False
+1060,Online Shopper,Rotator;Apex Flat,Rotator,False
+1061,Online Shopper,Voyager;Rotator,Voyager,False
+1062,Foodie,Apex Flat;Voyager;Everyday,Everyday,False
+1063,Online Shopper,Apex Flat;Bistro;Voyager;Rotator,Apex Flat,False
+1064,Online Shopper,Bistro;Rotator;Everyday,Rotator,False
+1065,Family,Bistro;Apex Flat;Rotator;Voyager,Rotator,False
+1066,Balanced,Rotator;Bistro;Voyager;Everyday,Rotator,False
+1067,Online Shopper,Everyday;Rotator;Apex Flat,Everyday,True
+1068,Family,Bistro;Apex Flat,Apex Flat,False
+1069,Foodie,Voyager;Everyday,Everyday,False
+1070,Online Shopper,Bistro;Rotator;Everyday;Apex Flat,Rotator,False
+1071,Family,Rotator;Everyday;Bistro,Rotator,False
+1072,Online Shopper,Rotator;Everyday,Everyday,False
+1073,Traveller,Voyager;Apex Flat,Apex Flat,False
+1074,Traveller,Apex Flat;Voyager,Apex Flat,False
+1075,Foodie,Everyday;Rotator;Voyager;Apex Flat,Apex Flat,False
+1076,Online Shopper,Rotator;Bistro,Rotator,False
+1077,Foodie,Apex Flat;Voyager,Voyager,False
+1078,Traveller,Bistro;Everyday,Bistro,False
+1079,Balanced,Voyager;Apex Flat;Everyday;Rotator,Rotator,False
+1080,Balanced,Everyday;Bistro,Everyday,False
+1081,Balanced,Rotator;Apex Flat,Apex Flat,False
+1082,Balanced,Rotator;Bistro;Apex Flat;Everyday,Bistro,False
+1083,Traveller,Rotator;Voyager,Voyager,False
+1084,Family,Everyday;Voyager,Everyday,False
+1085,Balanced,Voyager;Apex Flat,Voyager,False
+1086,Balanced,Rotator;Voyager;Everyday,Voyager,False
+1087,Balanced,Everyday;Voyager;Bistro;Apex Flat,Bistro,False
+1088,Online Shopper,Everyday;Bistro;Rotator;Voyager,Bistro,False
+1089,Foodie,Bistro;Rotator;Voyager;Apex Flat,Rotator,False
+1090,Traveller,Bistro;Voyager;Everyday,Everyday,True
+1091,Traveller,Apex Flat;Voyager;Rotator;Bistro,Bistro,False
+1092,Balanced,Voyager;Apex Flat,Apex Flat,False
+1093,Family,Bistro;Apex Flat,Apex Flat,False
+1094,Family,Rotator;Bistro;Apex Flat;Voyager,Rotator,False
+1095,Foodie,Bistro;Rotator,Bistro,False
+1096,Balanced,Voyager;Everyday;Bistro;Apex Flat,Everyday,False
+1097,Online Shopper,Rotator;Voyager;Bistro,Rotator,False
+1098,Foodie,Rotator;Apex Flat;Voyager,Apex Flat,False
+1099,Traveller,Rotator;Voyager,Rotator,False
+1100,Traveller,Apex Flat;Everyday,Apex Flat,False
+1101,Traveller,Apex Flat;Rotator,Rotator,False
+1102,Balanced,Bistro;Everyday;Apex Flat,Apex Flat,True
+1103,Foodie,Bistro;Voyager,Voyager,False
+1104,Family,Everyday;Voyager;Bistro;Apex Flat,Everyday,False
+1105,Foodie,Apex Flat;Rotator;Bistro;Voyager,Rotator,False
+1106,Family,Rotator;Apex Flat;Voyager,Apex Flat,True
+1107,Balanced,Voyager;Everyday;Bistro;Rotator,Bistro,False
+1108,Balanced,Everyday;Rotator;Apex Flat,Everyday,False
+1109,Foodie,Apex Flat;Everyday,Everyday,False
+1110,Online Shopper,Rotator;Bistro;Everyday;Voyager,Voyager,False
+1111,Family,Rotator;Everyday;Apex Flat;Bistro,Bistro,False
+1112,Foodie,Everyday;Voyager,Voyager,False
+1113,Family,Bistro;Rotator;Voyager,Rotator,False
+1114,Foodie,Apex Flat;Rotator;Bistro;Everyday,Bistro,False
+1115,Traveller,Rotator;Apex Flat;Bistro,Apex Flat,False
+1116,Balanced,Rotator;Apex Flat;Bistro;Voyager,Bistro,False
+1117,Traveller,Voyager;Apex Flat;Rotator,Voyager,False
+1118,Online Shopper,Rotator;Bistro;Apex Flat,Apex Flat,False
+1119,Traveller,Bistro;Apex Flat;Everyday;Voyager,Voyager,False
+1120,Foodie,Bistro;Everyday;Rotator;Apex Flat,Apex Flat,False
+1121,Foodie,Voyager;Bistro;Apex Flat,Bistro,False
+1122,Family,Voyager;Bistro;Everyday,Voyager,False
+1123,Family,Voyager;Rotator,Voyager,False
+1124,Balanced,Everyday;Voyager,Everyday,False
+1125,Balanced,Apex Flat;Voyager;Bistro;Everyday,Voyager,True
+1126,Balanced,Bistro;Voyager;Everyday;Rotator,Everyday,False
+1127,Online Shopper,Everyday;Voyager,Everyday,False
+1128,Traveller,Everyday;Rotator;Apex Flat;Bistro,Apex Flat,False
+1129,Online Shopper,Bistro;Voyager,Voyager,False
+1130,Traveller,Apex Flat;Bistro;Rotator,Bistro,False
+1131,Online Shopper,Everyday;Bistro;Apex Flat,Bistro,False
+1132,Online Shopper,Rotator;Apex Flat;Voyager;Everyday,Everyday,False
+1133,Online Shopper,Bistro;Apex Flat;Everyday;Rotator,Everyday,False
+1134,Online Shopper,Bistro;Everyday,Everyday,False
+1135,Foodie,Everyday;Rotator,Everyday,False
+1136,Online Shopper,Rotator;Everyday;Apex Flat,Rotator,False
+1137,Family,Apex Flat;Rotator;Bistro;Everyday,Everyday,False
+1138,Online Shopper,Bistro;Voyager,Voyager,False
+1139,Traveller,Everyday;Voyager;Bistro;Rotator,Everyday,False
+1140,Balanced,Bistro;Voyager;Rotator;Apex Flat,Rotator,False
+1141,Family,Bistro;Rotator;Voyager,Bistro,False
+1142,Balanced,Everyday;Bistro,Everyday,False
+1143,Balanced,Voyager;Bistro;Everyday,Voyager,False
+1144,Family,Voyager;Everyday;Apex Flat,Apex Flat,False
+1145,Traveller,Everyday;Bistro,Bistro,False
+1146,Traveller,Everyday;Apex Flat;Rotator;Voyager,Voyager,False
+1147,Online Shopper,Apex Flat;Rotator;Voyager,Voyager,True
+1148,Online Shopper,Everyday;Voyager;Bistro,Voyager,False
+1149,Balanced,Everyday;Apex Flat;Bistro;Voyager,Bistro,False
+1150,Family,Rotator;Bistro,Bistro,True
+1151,Traveller,Rotator;Voyager,Voyager,False
+1152,Traveller,Rotator;Bistro;Apex Flat;Voyager,Voyager,False
+1153,Balanced,Apex Flat;Voyager;Rotator,Rotator,False
+1154,Family,Bistro;Rotator;Apex Flat,Rotator,False
+1155,Traveller,Rotator;Voyager,Voyager,False
+1156,Foodie,Bistro;Voyager;Apex Flat;Everyday,Everyday,False
+1157,Balanced,Everyday;Bistro,Bistro,False
+1158,Family,Voyager;Apex Flat;Rotator;Bistro,Apex Flat,False
+1159,Family,Everyday;Bistro,Everyday,True
+1160,Traveller,Bistro;Everyday;Voyager;Rotator,Voyager,False
+1161,Traveller,Apex Flat;Rotator,Rotator,False
+1162,Balanced,Everyday;Voyager;Apex Flat,Apex Flat,False
+1163,Traveller,Voyager;Rotator,Voyager,False
+1164,Traveller,Bistro;Voyager;Apex Flat,Bistro,False
+1165,Foodie,Bistro;Everyday;Rotator;Voyager,Rotator,False
+1166,Foodie,Voyager;Apex Flat,Apex Flat,False
+1167,Family,Apex Flat;Everyday;Rotator;Voyager,Everyday,False
+1168,Balanced,Everyday;Apex Flat;Bistro;Rotator,Rotator,True
+1169,Balanced,Bistro;Voyager;Apex Flat;Everyday,Voyager,False
+1170,Online Shopper,Rotator;Voyager;Everyday;Bistro,Rotator,False
+1171,Online Shopper,Bistro;Voyager;Rotator,Voyager,False
+1172,Family,Rotator;Everyday;Apex Flat;Voyager,Everyday,False
+1173,Foodie,Apex Flat;Voyager;Rotator;Bistro,Voyager,False
+1174,Foodie,Bistro;Rotator,Rotator,False
+1175,Family,Apex Flat;Voyager;Rotator,Voyager,False
+1176,Family,Bistro;Everyday;Voyager;Rotator,Rotator,False
+1177,Foodie,Bistro;Everyday;Apex Flat;Voyager,Everyday,False
+1178,Family,Bistro;Everyday,Bistro,True
+1179,Foodie,Everyday;Voyager,Everyday,False
+1180,Online Shopper,Rotator;Everyday;Apex Flat;Voyager,Apex Flat,False
+1181,Balanced,Voyager;Bistro,Bistro,False
+1182,Online Shopper,Everyday;Voyager,Voyager,False
+1183,Traveller,Bistro;Everyday;Rotator;Voyager,Rotator,False
+1184,Traveller,Everyday;Apex Flat,Apex Flat,False
+1185,Family,Everyday;Bistro,Bistro,False
+1186,Foodie,Bistro;Apex Flat,Apex Flat,False
+1187,Traveller,Rotator;Apex Flat,Apex Flat,False
+1188,Traveller,Rotator;Bistro,Bistro,False
+1189,Foodie,Rotator;Everyday,Rotator,False
+1190,Traveller,Rotator;Apex Flat;Voyager;Everyday,Voyager,False
+1191,Family,Voyager;Everyday;Bistro;Apex Flat,Apex Flat,False
+1192,Foodie,Rotator;Everyday,Everyday,False
+1193,Online Shopper,Voyager;Bistro;Rotator,Bistro,False
+1194,Traveller,Rotator;Voyager,Voyager,False
+1195,Online Shopper,Bistro;Voyager;Rotator,Rotator,False
+1196,Online Shopper,Bistro;Everyday;Voyager;Rotator,Voyager,False
+1197,Balanced,Rotator;Bistro;Voyager;Everyday,Voyager,False
+1198,Balanced,Bistro;Voyager;Everyday;Apex Flat,Apex Flat,False
+1199,Online Shopper,Voyager;Everyday;Rotator;Bistro,Voyager,False
+1200,Balanced,Voyager;Everyday;Rotator;Bistro,Bistro,False
+1201,Traveller,Apex Flat;Rotator,Apex Flat,False
+1202,Balanced,Rotator;Voyager,Voyager,False
+1203,Online Shopper,Rotator;Voyager;Bistro,Rotator,True
+1204,Online Shopper,Apex Flat;Bistro;Everyday,Apex Flat,False
+1205,Balanced,Apex Flat;Rotator,Rotator,False
+1206,Traveller,Voyager;Rotator,Rotator,False
+1207,Online Shopper,Bistro;Rotator,Rotator,False
+1208,Family,Bistro;Everyday;Voyager,Voyager,False
+1209,Balanced,Bistro;Apex Flat;Voyager,Apex Flat,False
+1210,Online Shopper,Bistro;Voyager,Bistro,False
+1211,Online Shopper,Rotator;Apex Flat;Voyager;Everyday,Rotator,False
+1212,Traveller,Bistro;Voyager,Voyager,True
+1213,Balanced,Rotator;Voyager;Apex Flat,Apex Flat,False
+1214,Foodie,Voyager;Rotator,Rotator,False
+1215,Foodie,Voyager;Apex Flat,Voyager,False
+1216,Traveller,Voyager;Bistro,Voyager,False
+1217,Online Shopper,Apex Flat;Voyager,Voyager,False
+1218,Balanced,Bistro;Everyday;Apex Flat,Apex Flat,False
+1219,Traveller,Apex Flat;Everyday,Apex Flat,False
+1220,Online Shopper,Rotator;Apex Flat,Apex Flat,False
+1221,Traveller,Apex Flat;Rotator,Apex Flat,False
+1222,Balanced,Bistro;Apex Flat;Rotator,Apex Flat,False
+1223,Online Shopper,Everyday;Rotator;Apex Flat;Voyager,Rotator,False
+1224,Traveller,Voyager;Rotator;Everyday;Bistro,Rotator,False
+1225,Balanced,Everyday;Voyager;Bistro;Rotator,Everyday,False
+1226,Foodie,Bistro;Voyager;Apex Flat;Rotator,Apex Flat,True
+1227,Balanced,Everyday;Voyager;Bistro,Voyager,False
+1228,Foodie,Bistro;Voyager;Everyday;Apex Flat,Apex Flat,False
+1229,Family,Everyday;Voyager,Everyday,False
+1230,Balanced,Everyday;Voyager;Bistro;Apex Flat,Everyday,False
+1231,Online Shopper,Bistro;Apex Flat;Everyday,Apex Flat,False
+1232,Balanced,Bistro;Voyager;Apex Flat;Rotator,Rotator,False
+1233,Online Shopper,Voyager;Bistro;Apex Flat,Apex Flat,False
+1234,Online Shopper,Bistro;Rotator;Everyday;Apex Flat,Rotator,False
+1235,Family,Voyager;Apex Flat;Everyday,Apex Flat,False
+1236,Foodie,Rotator;Apex Flat,Rotator,False
+1237,Foodie,Bistro;Everyday;Voyager;Apex Flat,Apex Flat,False
+1238,Family,Voyager;Bistro;Apex Flat;Rotator,Apex Flat,False
+1239,Foodie,Everyday;Bistro;Rotator,Rotator,False
+1240,Traveller,Apex Flat;Everyday,Everyday,False
+1241,Online Shopper,Apex Flat;Rotator;Bistro,Bistro,False
+1242,Balanced,Everyday;Bistro,Bistro,False
+1243,Traveller,Rotator;Everyday;Apex Flat,Rotator,False
+1244,Balanced,Apex Flat;Rotator,Apex Flat,False
+1245,Balanced,Bistro;Apex Flat;Everyday;Voyager,Voyager,False
+1246,Balanced,Apex Flat;Everyday;Bistro;Voyager,Apex Flat,False
+1247,Traveller,Everyday;Apex Flat,Apex Flat,False
+1248,Family,Everyday;Bistro,Everyday,False
+1249,Balanced,Everyday;Voyager;Bistro;Apex Flat,Everyday,False
+1250,Family,Apex Flat;Rotator;Bistro,Rotator,False
+1251,Traveller,Rotator;Voyager;Bistro,Voyager,False
+1252,Foodie,Everyday;Bistro;Voyager;Rotator,Bistro,True
+1253,Online Shopper,Voyager;Rotator;Everyday,Everyday,False
+1254,Online Shopper,Voyager;Bistro,Voyager,False
+1255,Foodie,Bistro;Everyday;Voyager;Apex Flat,Everyday,False
+1256,Family,Bistro;Everyday;Voyager;Rotator,Voyager,False
+1257,Traveller,Apex Flat;Everyday;Rotator;Bistro,Rotator,False
+1258,Traveller,Everyday;Apex Flat;Voyager,Everyday,False
+1259,Balanced,Bistro;Apex Flat,Apex Flat,False
+1260,Family,Everyday;Bistro;Apex Flat,Everyday,False
+1261,Balanced,Bistro;Apex Flat;Rotator;Voyager,Apex Flat,False
+1262,Traveller,Apex Flat;Rotator,Rotator,True
+1263,Balanced,Apex Flat;Rotator;Everyday,Apex Flat,False
+1264,Family,Everyday;Bistro;Rotator;Voyager,Everyday,False
+1265,Foodie,Voyager;Apex Flat,Voyager,False
+1266,Foodie,Voyager;Apex Flat;Everyday;Bistro,Voyager,False
+1267,Family,Apex Flat;Bistro,Bistro,True
+1268,Balanced,Voyager;Everyday;Apex Flat;Rotator,Apex Flat,False
+1269,Foodie,Bistro;Rotator;Voyager,Rotator,False
+1270,Family,Rotator;Apex Flat;Everyday;Bistro,Apex Flat,False
+1271,Foodie,Bistro;Apex Flat;Rotator;Everyday,Everyday,False
+1272,Balanced,Rotator;Everyday;Bistro;Apex Flat,Apex Flat,False
+1273,Online Shopper,Everyday;Voyager;Rotator,Everyday,False
+1274,Online Shopper,Voyager;Bistro;Apex Flat;Everyday,Bistro,True
+1275,Online Shopper,Voyager;Bistro,Voyager,False
+1276,Online Shopper,Bistro;Voyager;Rotator;Apex Flat,Rotator,True
+1277,Online Shopper,Voyager;Rotator;Bistro;Apex Flat,Bistro,False
+1278,Foodie,Bistro;Rotator,Rotator,False
+1279,Balanced,Apex Flat;Bistro;Voyager,Voyager,False
+1280,Online Shopper,Rotator;Bistro;Voyager,Voyager,False
+1281,Online Shopper,Rotator;Apex Flat;Bistro,Bistro,False
+1282,Family,Apex Flat;Voyager;Rotator,Voyager,False
+1283,Balanced,Voyager;Everyday;Apex Flat,Everyday,False
+1284,Family,Everyday;Bistro;Apex Flat,Bistro,True
+1285,Foodie,Voyager;Apex Flat;Rotator,Rotator,False
+1286,Balanced,Apex Flat;Voyager,Apex Flat,False
+1287,Family,Everyday;Apex Flat;Bistro;Voyager,Apex Flat,False
+1288,Foodie,Apex Flat;Bistro,Bistro,False
+1289,Online Shopper,Rotator;Voyager;Apex Flat;Bistro,Bistro,False
+1290,Family,Bistro;Apex Flat;Voyager,Voyager,False
+1291,Balanced,Apex Flat;Everyday,Apex Flat,False
+1292,Traveller,Bistro;Everyday;Rotator,Everyday,False
+1293,Foodie,Everyday;Voyager,Everyday,False
+1294,Balanced,Apex Flat;Everyday;Rotator;Bistro,Bistro,False
+1295,Traveller,Everyday;Apex Flat;Voyager,Everyday,False
+1296,Family,Rotator;Apex Flat;Voyager,Apex Flat,True
+1297,Online Shopper,Apex Flat;Bistro;Rotator,Rotator,False
+1298,Traveller,Rotator;Bistro,Bistro,False
+1299,Foodie,Rotator;Everyday;Voyager,Rotator,False
+1300,Online Shopper,Voyager;Rotator,Voyager,False
+1301,Traveller,Apex Flat;Everyday,Apex Flat,False
+1302,Online Shopper,Rotator;Everyday;Voyager,Everyday,False
+1303,Balanced,Rotator;Voyager,Rotator,False
+1304,Online Shopper,Rotator;Voyager;Apex Flat;Bistro,Rotator,False
+1305,Online Shopper,Apex Flat;Voyager,Voyager,False
+1306,Family,Voyager;Rotator;Apex Flat,Apex Flat,False
+1307,Family,Everyday;Voyager;Apex Flat;Rotator,Everyday,False
+1308,Traveller,Bistro;Apex Flat;Rotator,Rotator,False
+1309,Balanced,Bistro;Voyager;Everyday;Rotator,Everyday,False
+1310,Traveller,Apex Flat;Bistro;Voyager,Bistro,False
+1311,Family,Rotator;Voyager;Apex Flat,Rotator,False
+1312,Online Shopper,Rotator;Apex Flat;Bistro,Rotator,False
+1313,Balanced,Voyager;Apex Flat,Apex Flat,False
+1314,Balanced,Everyday;Voyager;Apex Flat,Everyday,False
+1315,Family,Apex Flat;Everyday;Voyager,Apex Flat,False
+1316,Online Shopper,Bistro;Voyager;Apex Flat;Rotator,Bistro,False
+1317,Traveller,Apex Flat;Rotator,Apex Flat,False
+1318,Traveller,Bistro;Rotator,Rotator,True
+1319,Family,Rotator;Voyager,Rotator,False
+1320,Foodie,Apex Flat;Rotator;Bistro,Rotator,False
+1321,Family,Apex Flat;Rotator;Voyager,Apex Flat,False
+1322,Traveller,Apex Flat;Voyager;Everyday,Voyager,False
+1323,Balanced,Bistro;Apex Flat,Bistro,False
+1324,Balanced,Rotator;Bistro;Apex Flat;Everyday,Everyday,True
+1325,Foodie,Everyday;Apex Flat;Rotator,Everyday,False
+1326,Online Shopper,Bistro;Apex Flat;Voyager;Everyday,Apex Flat,False
+1327,Foodie,Everyday;Bistro;Rotator,Rotator,False
+1328,Online Shopper,Everyday;Rotator;Apex Flat;Bistro,Everyday,True
+1329,Family,Voyager;Rotator;Apex Flat;Bistro,Voyager,False
+1330,Traveller,Everyday;Voyager,Voyager,True
+1331,Online Shopper,Voyager;Apex Flat;Rotator,Rotator,True
+1332,Traveller,Voyager;Everyday,Voyager,False
+1333,Balanced,Rotator;Bistro,Bistro,False
+1334,Traveller,Apex Flat;Voyager,Voyager,False
+1335,Balanced,Apex Flat;Everyday,Apex Flat,False
+1336,Online Shopper,Voyager;Everyday,Voyager,False
+1337,Family,Apex Flat;Voyager,Voyager,False
+1338,Online Shopper,Rotator;Apex Flat;Voyager;Bistro,Bistro,False
+1339,Traveller,Voyager;Rotator;Bistro,Bistro,False
+1340,Traveller,Voyager;Everyday;Apex Flat;Rotator,Voyager,False
+1341,Foodie,Bistro;Rotator,Bistro,False
+1342,Foodie,Everyday;Rotator;Apex Flat,Apex Flat,True
+1343,Traveller,Apex Flat;Bistro;Everyday;Voyager,Voyager,False
+1344,Foodie,Bistro;Apex Flat,Bistro,False
+1345,Balanced,Voyager;Everyday;Apex Flat;Rotator,Everyday,True
+1346,Balanced,Voyager;Rotator;Apex Flat;Everyday,Voyager,False
+1347,Online Shopper,Everyday;Apex Flat;Bistro;Voyager,Bistro,False
+1348,Online Shopper,Apex Flat;Rotator,Rotator,False
+1349,Traveller,Everyday;Bistro;Rotator,Bistro,False
+1350,Foodie,Rotator;Everyday;Voyager;Apex Flat,Voyager,False
+1351,Family,Apex Flat;Voyager;Everyday,Everyday,False
+1352,Traveller,Rotator;Voyager;Apex Flat;Bistro,Bistro,False
+1353,Balanced,Bistro;Apex Flat,Bistro,False
+1354,Family,Everyday;Apex Flat;Rotator,Apex Flat,False
+1355,Traveller,Everyday;Apex Flat;Bistro,Apex Flat,False
+1356,Family,Everyday;Apex Flat,Apex Flat,True
+1357,Foodie,Voyager;Apex Flat;Rotator;Bistro,Voyager,False
+1358,Foodie,Voyager;Bistro,Voyager,False
+1359,Family,Apex Flat;Rotator;Voyager,Rotator,False
+1360,Foodie,Voyager;Rotator,Voyager,False
+1361,Foodie,Voyager;Bistro;Rotator;Everyday,Voyager,False
+1362,Family,Bistro;Everyday;Apex Flat;Rotator,Apex Flat,False
+1363,Family,Apex Flat;Rotator;Voyager,Apex Flat,False
+1364,Traveller,Bistro;Rotator;Voyager;Everyday,Bistro,False
+1365,Foodie,Rotator;Everyday;Bistro;Voyager,Bistro,False
+1366,Family,Voyager;Bistro;Rotator,Rotator,False
+1367,Traveller,Bistro;Apex Flat,Apex Flat,False
+1368,Balanced,Apex Flat;Everyday;Voyager;Rotator,Everyday,False
+1369,Online Shopper,Rotator;Apex Flat,Rotator,False
+1370,Balanced,Rotator;Apex Flat,Rotator,False
+1371,Family,Voyager;Apex Flat;Everyday,Apex Flat,False
+1372,Traveller,Voyager;Bistro,Bistro,False
+1373,Traveller,Bistro;Everyday;Apex Flat,Bistro,False
+1374,Balanced,Voyager;Apex Flat;Everyday,Voyager,True
+1375,Balanced,Voyager;Everyday,Voyager,False
+1376,Balanced,Bistro;Apex Flat;Everyday;Rotator,Rotator,False
+1377,Online Shopper,Rotator;Everyday;Apex Flat,Everyday,True
+1378,Traveller,Bistro;Everyday;Rotator;Voyager,Bistro,False
+1379,Traveller,Apex Flat;Everyday;Voyager,Voyager,False
+1380,Balanced,Voyager;Everyday,Voyager,False
+1381,Family,Rotator;Bistro;Everyday;Apex Flat,Apex Flat,False
+1382,Family,Everyday;Rotator;Bistro,Rotator,False
+1383,Balanced,Bistro;Everyday;Rotator;Voyager,Voyager,False
+1384,Family,Voyager;Rotator;Apex Flat;Bistro,Bistro,True
+1385,Family,Rotator;Voyager;Apex Flat;Bistro,Apex Flat,False
+1386,Traveller,Rotator;Voyager;Apex Flat;Everyday,Rotator,True
+1387,Family,Bistro;Everyday;Voyager,Voyager,False
+1388,Balanced,Everyday;Rotator,Rotator,False
+1389,Balanced,Voyager;Apex Flat;Rotator,Apex Flat,False
+1390,Family,Bistro;Voyager;Rotator;Apex Flat,Voyager,True
+1391,Traveller,Apex Flat;Voyager;Bistro;Rotator,Bistro,False
+1392,Balanced,Everyday;Voyager;Rotator,Rotator,False
+1393,Online Shopper,Apex Flat;Rotator;Voyager;Bistro,Rotator,False
+1394,Family,Apex Flat;Rotator;Bistro;Voyager,Bistro,False
+1395,Traveller,Everyday;Voyager,Everyday,False
+1396,Online Shopper,Everyday;Rotator;Voyager,Everyday,False
+1397,Online Shopper,Everyday;Bistro;Rotator,Rotator,True
+1398,Foodie,Everyday;Voyager;Apex Flat;Bistro,Apex Flat,False
+1399,Family,Rotator;Everyday,Everyday,False
+1400,Balanced,Bistro;Voyager;Everyday;Apex Flat,Voyager,False
+1401,Family,Bistro;Voyager;Everyday;Apex Flat,Everyday,False
+1402,Family,Apex Flat;Bistro,Bistro,False
+1403,Family,Everyday;Apex Flat;Rotator;Voyager,Everyday,False
+1404,Foodie,Voyager;Rotator;Everyday,Voyager,False
+1405,Foodie,Everyday;Apex Flat;Bistro,Bistro,False
+1406,Family,Voyager;Rotator;Bistro,Bistro,True
+1407,Balanced,Voyager;Everyday;Bistro,Voyager,False
+1408,Foodie,Bistro;Voyager;Everyday;Apex Flat,Voyager,False
+1409,Family,Everyday;Apex Flat;Voyager;Rotator,Rotator,False
+1410,Foodie,Rotator;Voyager;Everyday;Bistro,Voyager,False
+1411,Traveller,Everyday;Voyager,Voyager,False
+1412,Family,Rotator;Everyday;Bistro,Bistro,False
+1413,Online Shopper,Everyday;Voyager;Bistro;Rotator,Voyager,False
+1414,Traveller,Bistro;Voyager;Rotator,Rotator,False
+1415,Online Shopper,Voyager;Apex Flat;Bistro,Bistro,False
+1416,Online Shopper,Bistro;Voyager;Everyday,Everyday,False
+1417,Traveller,Voyager;Rotator;Bistro;Apex Flat,Voyager,False
+1418,Balanced,Rotator;Everyday,Rotator,False
+1419,Traveller,Rotator;Voyager,Rotator,False
+1420,Balanced,Bistro;Voyager;Everyday;Apex Flat,Apex Flat,True
+1421,Balanced,Bistro;Everyday;Rotator,Rotator,False
+1422,Traveller,Everyday;Rotator,Everyday,False
+1423,Online Shopper,Apex Flat;Bistro,Bistro,False
+1424,Family,Bistro;Apex Flat;Rotator,Apex Flat,True
+1425,Balanced,Voyager;Everyday,Voyager,False
+1426,Online Shopper,Apex Flat;Voyager;Rotator,Rotator,False
+1427,Balanced,Apex Flat;Bistro;Rotator,Apex Flat,False
+1428,Family,Voyager;Bistro;Apex Flat;Rotator,Voyager,False
+1429,Online Shopper,Bistro;Voyager,Bistro,False
+1430,Traveller,Voyager;Apex Flat;Bistro;Everyday,Everyday,False
+1431,Foodie,Bistro;Rotator,Bistro,False
+1432,Foodie,Voyager;Everyday,Everyday,True
+1433,Traveller,Rotator;Bistro,Rotator,True
+1434,Family,Everyday;Rotator;Voyager;Apex Flat,Apex Flat,False
+1435,Foodie,Voyager;Apex Flat;Rotator,Voyager,False
+1436,Traveller,Rotator;Apex Flat;Bistro;Everyday,Everyday,False
+1437,Online Shopper,Apex Flat;Voyager;Rotator;Bistro,Apex Flat,False
+1438,Family,Apex Flat;Everyday;Voyager;Rotator,Everyday,False
+1439,Balanced,Everyday;Rotator,Everyday,False
+1440,Online Shopper,Apex Flat;Everyday;Bistro;Voyager,Everyday,False
+1441,Traveller,Bistro;Everyday;Voyager;Apex Flat,Apex Flat,False
+1442,Balanced,Rotator;Voyager;Everyday;Apex Flat,Everyday,False
+1443,Traveller,Everyday;Bistro;Voyager,Bistro,False
+1444,Foodie,Bistro;Everyday,Everyday,False
+1445,Foodie,Apex Flat;Rotator;Voyager;Bistro,Apex Flat,False
+1446,Balanced,Apex Flat;Bistro,Bistro,False
+1447,Balanced,Bistro;Everyday;Apex Flat;Voyager,Bistro,False
+1448,Online Shopper,Bistro;Voyager;Apex Flat,Apex Flat,False
+1449,Foodie,Apex Flat;Rotator;Bistro;Voyager,Bistro,False
+1450,Family,Apex Flat;Bistro;Rotator;Voyager,Voyager,False
+1451,Foodie,Voyager;Apex Flat;Bistro,Voyager,False
+1452,Foodie,Everyday;Bistro;Rotator;Apex Flat,Apex Flat,True
+1453,Family,Everyday;Rotator;Bistro,Bistro,False
+1454,Traveller,Voyager;Rotator;Bistro;Apex Flat,Bistro,False
+1455,Foodie,Apex Flat;Everyday;Rotator,Everyday,False
+1456,Balanced,Everyday;Apex Flat,Everyday,True
+1457,Traveller,Rotator;Voyager;Everyday;Apex Flat,Apex Flat,False
+1458,Family,Bistro;Everyday;Rotator;Apex Flat,Rotator,False
+1459,Traveller,Bistro;Apex Flat;Rotator;Everyday,Apex Flat,False
+1460,Online Shopper,Apex Flat;Everyday;Voyager;Rotator,Voyager,False
+1461,Family,Bistro;Everyday;Rotator,Bistro,False
+1462,Foodie,Apex Flat;Bistro,Apex Flat,False
+1463,Foodie,Apex Flat;Everyday;Voyager;Rotator,Rotator,False
+1464,Balanced,Rotator;Everyday;Apex Flat;Bistro,Bistro,False
+1465,Foodie,Bistro;Everyday;Rotator,Rotator,False
+1466,Online Shopper,Bistro;Rotator;Voyager;Everyday,Rotator,False
+1467,Family,Apex Flat;Rotator;Voyager,Rotator,False
+1468,Online Shopper,Apex Flat;Bistro;Everyday,Everyday,False
+1469,Foodie,Bistro;Apex Flat;Rotator;Everyday,Everyday,False
+1470,Balanced,Everyday;Rotator;Apex Flat,Rotator,False
+1471,Online Shopper,Bistro;Rotator;Voyager;Everyday,Rotator,False
+1472,Traveller,Rotator;Apex Flat,Rotator,False
+1473,Family,Voyager;Rotator;Bistro,Rotator,True
+1474,Balanced,Voyager;Everyday;Bistro,Bistro,False
+1475,Family,Apex Flat;Bistro;Voyager,Voyager,False
+1476,Traveller,Apex Flat;Bistro;Rotator,Apex Flat,False
+1477,Family,Everyday;Rotator,Everyday,False
+1478,Family,Voyager;Bistro;Rotator;Everyday,Rotator,True
+1479,Traveller,Voyager;Everyday;Rotator;Apex Flat,Rotator,False
+1480,Foodie,Rotator;Everyday;Apex Flat,Everyday,False
+1481,Foodie,Rotator;Voyager;Apex Flat;Everyday,Voyager,False
+1482,Family,Apex Flat;Voyager;Rotator;Everyday,Apex Flat,False
+1483,Foodie,Voyager;Rotator;Bistro;Apex Flat,Apex Flat,False
+1484,Traveller,Everyday;Voyager,Everyday,False
+1485,Balanced,Everyday;Apex Flat,Apex Flat,True
+1486,Foodie,Bistro;Apex Flat,Apex Flat,False
+1487,Foodie,Apex Flat;Rotator,Rotator,False
+1488,Foodie,Everyday;Apex Flat,Everyday,False
+1489,Traveller,Rotator;Bistro;Everyday,Everyday,False
+1490,Family,Apex Flat;Bistro,Bistro,False
+1491,Traveller,Apex Flat;Everyday;Voyager,Apex Flat,False
+1492,Foodie,Bistro;Everyday;Apex Flat,Everyday,False
+1493,Family,Bistro;Rotator;Apex Flat;Everyday,Apex Flat,False
+1494,Traveller,Apex Flat;Voyager;Bistro,Voyager,False
+1495,Traveller,Bistro;Apex Flat,Apex Flat,False
+1496,Traveller,Rotator;Voyager,Voyager,False
+1497,Online Shopper,Voyager;Everyday,Voyager,False
+1498,Traveller,Rotator;Bistro;Everyday,Bistro,False
+1499,Balanced,Voyager;Bistro;Everyday;Rotator,Voyager,False
+1500,Traveller,Voyager;Bistro;Everyday,Bistro,False
+1501,Family,Voyager;Apex Flat,Voyager,False
+1502,Family,Voyager;Apex Flat;Rotator;Everyday,Everyday,True
+1503,Family,Rotator;Voyager;Everyday,Voyager,False
+1504,Traveller,Apex Flat;Everyday;Rotator,Rotator,False
+1505,Family,Voyager;Everyday;Rotator,Everyday,False
+1506,Balanced,Rotator;Apex Flat;Everyday;Voyager,Rotator,False
+1507,Traveller,Everyday;Voyager,Voyager,False
+1508,Balanced,Bistro;Voyager,Voyager,False
+1509,Online Shopper,Voyager;Everyday;Apex Flat,Apex Flat,False
+1510,Family,Apex Flat;Bistro;Voyager,Apex Flat,False
+1511,Family,Rotator;Everyday,Rotator,False
+1512,Online Shopper,Rotator;Everyday,Everyday,False
+1513,Family,Apex Flat;Rotator;Voyager;Bistro,Apex Flat,False
+1514,Family,Bistro;Everyday;Voyager;Apex Flat,Everyday,False
+1515,Balanced,Everyday;Voyager;Rotator;Bistro,Bistro,False
+1516,Traveller,Bistro;Apex Flat;Everyday;Voyager,Apex Flat,False
+1517,Foodie,Everyday;Apex Flat;Rotator;Bistro,Everyday,False
+1518,Traveller,Apex Flat;Voyager;Everyday,Apex Flat,False
+1519,Traveller,Voyager;Bistro;Rotator,Bistro,False
+1520,Balanced,Voyager;Everyday;Bistro,Voyager,True
+1521,Online Shopper,Voyager;Apex Flat;Rotator,Apex Flat,False
+1522,Foodie,Apex Flat;Rotator;Bistro;Everyday,Rotator,False
+1523,Foodie,Bistro;Rotator;Apex Flat,Bistro,False
+1524,Online Shopper,Rotator;Everyday;Voyager;Apex Flat,Apex Flat,False
+1525,Foodie,Voyager;Everyday,Voyager,False
+1526,Family,Everyday;Rotator;Voyager,Everyday,False
+1527,Foodie,Voyager;Bistro;Rotator;Apex Flat,Rotator,False
+1528,Foodie,Rotator;Everyday;Apex Flat;Bistro,Rotator,False
+1529,Balanced,Apex Flat;Bistro;Everyday,Everyday,False
+1530,Foodie,Voyager;Rotator;Bistro,Bistro,False
+1531,Foodie,Everyday;Bistro;Voyager;Rotator,Rotator,False
+1532,Balanced,Rotator;Apex Flat,Apex Flat,False
+1533,Foodie,Apex Flat;Rotator,Apex Flat,True
+1534,Balanced,Rotator;Apex Flat;Voyager,Apex Flat,False
+1535,Foodie,Everyday;Apex Flat,Apex Flat,False
+1536,Foodie,Voyager;Apex Flat,Apex Flat,False
+1537,Foodie,Voyager;Bistro;Apex Flat;Rotator,Bistro,False
+1538,Online Shopper,Everyday;Voyager;Bistro;Apex Flat,Everyday,False
+1539,Online Shopper,Apex Flat;Bistro;Voyager;Everyday,Bistro,False
+1540,Traveller,Apex Flat;Voyager;Everyday;Rotator,Rotator,False
+1541,Family,Apex Flat;Rotator;Bistro,Apex Flat,False
+1542,Foodie,Apex Flat;Everyday;Voyager;Rotator,Rotator,False
+1543,Traveller,Everyday;Voyager;Rotator,Rotator,False
+1544,Family,Everyday;Apex Flat;Rotator,Rotator,False
+1545,Traveller,Rotator;Apex Flat;Voyager;Everyday,Voyager,False
+1546,Online Shopper,Voyager;Rotator;Apex Flat;Everyday,Rotator,False
+1547,Balanced,Apex Flat;Voyager;Everyday;Rotator,Apex Flat,False
+1548,Traveller,Rotator;Everyday,Rotator,True
+1549,Foodie,Voyager;Apex Flat;Everyday;Rotator,Voyager,False
+1550,Family,Voyager;Rotator;Apex Flat;Everyday,Everyday,False
+1551,Balanced,Bistro;Voyager;Apex Flat;Rotator,Apex Flat,False
+1552,Traveller,Apex Flat;Everyday;Bistro;Rotator,Apex Flat,True
+1553,Online Shopper,Apex Flat;Bistro;Everyday;Rotator,Everyday,False
+1554,Traveller,Rotator;Everyday;Voyager,Rotator,False
+1555,Foodie,Apex Flat;Rotator,Apex Flat,False
+1556,Balanced,Voyager;Everyday,Voyager,False
+1557,Online Shopper,Apex Flat;Everyday;Rotator,Everyday,False
+1558,Balanced,Bistro;Apex Flat,Apex Flat,False
+1559,Balanced,Apex Flat;Rotator,Rotator,False
+1560,Family,Bistro;Everyday;Rotator,Everyday,True
+1561,Family,Everyday;Voyager;Bistro;Rotator,Voyager,False
+1562,Family,Bistro;Rotator;Voyager;Everyday,Bistro,False
+1563,Balanced,Bistro;Apex Flat,Apex Flat,False
+1564,Traveller,Rotator;Voyager;Everyday;Apex Flat,Apex Flat,False
+1565,Traveller,Voyager;Bistro;Everyday;Apex Flat,Everyday,False
+1566,Balanced,Rotator;Voyager,Rotator,True
+1567,Online Shopper,Bistro;Voyager;Everyday;Rotator,Bistro,False
+1568,Balanced,Everyday;Rotator;Apex Flat;Voyager,Rotator,False
+1569,Balanced,Everyday;Voyager;Bistro,Voyager,False
+1570,Foodie,Everyday;Apex Flat,Everyday,False
+1571,Family,Apex Flat;Voyager;Bistro,Voyager,False
+1572,Online Shopper,Rotator;Bistro;Apex Flat,Apex Flat,False
+1573,Balanced,Bistro;Everyday;Voyager;Apex Flat,Bistro,False
+1574,Foodie,Everyday;Apex Flat;Rotator;Bistro,Bistro,False
+1575,Family,Bistro;Everyday,Bistro,False
+1576,Traveller,Bistro;Apex Flat,Bistro,False
+1577,Online Shopper,Voyager;Apex Flat,Apex Flat,False
+1578,Foodie,Bistro;Rotator,Rotator,False
+1579,Online Shopper,Bistro;Rotator;Apex Flat;Voyager,Voyager,False
+1580,Family,Rotator;Everyday;Apex Flat;Bistro,Apex Flat,False
+1581,Family,Bistro;Apex Flat;Voyager;Rotator,Apex Flat,False
+1582,Traveller,Bistro;Apex Flat;Rotator;Voyager,Apex Flat,False
+1583,Traveller,Bistro;Apex Flat,Bistro,True
+1584,Online Shopper,Everyday;Rotator,Rotator,False
+1585,Family,Bistro;Everyday,Bistro,False
+1586,Balanced,Bistro;Everyday,Everyday,False
+1587,Foodie,Rotator;Bistro;Everyday;Apex Flat,Rotator,False
+1588,Balanced,Voyager;Apex Flat;Rotator,Voyager,False
+1589,Foodie,Bistro;Rotator,Rotator,False
+1590,Online Shopper,Rotator;Bistro;Apex Flat;Voyager,Apex Flat,False
+1591,Family,Rotator;Bistro,Bistro,False
+1592,Family,Bistro;Voyager;Apex Flat,Apex Flat,False
+1593,Foodie,Apex Flat;Voyager;Rotator;Bistro,Rotator,True
+1594,Online Shopper,Voyager;Rotator;Apex Flat;Everyday,Everyday,False
+1595,Foodie,Voyager;Apex Flat;Everyday,Apex Flat,False
+1596,Online Shopper,Rotator;Voyager,Voyager,False
+1597,Online Shopper,Apex Flat;Rotator;Everyday;Bistro,Everyday,False
+1598,Balanced,Voyager;Everyday;Apex Flat,Apex Flat,True
+1599,Online Shopper,Apex Flat;Everyday,Apex Flat,False
+1600,Family,Voyager;Bistro,Voyager,False
+1601,Online Shopper,Bistro;Everyday;Apex Flat;Rotator,Bistro,False
+1602,Balanced,Everyday;Rotator,Everyday,False
+1603,Family,Everyday;Bistro;Apex Flat,Everyday,False
+1604,Foodie,Rotator;Bistro;Apex Flat,Bistro,False
+1605,Balanced,Rotator;Bistro,Bistro,False
+1606,Foodie,Voyager;Everyday;Bistro;Apex Flat,Apex Flat,False
+1607,Traveller,Apex Flat;Voyager,Voyager,False
+1608,Family,Bistro;Voyager;Everyday,Voyager,False
+1609,Foodie,Rotator;Bistro;Everyday;Voyager,Everyday,False
+1610,Online Shopper,Everyday;Apex Flat;Rotator,Everyday,False
+1611,Foodie,Rotator;Bistro;Apex Flat,Bistro,False
+1612,Online Shopper,Voyager;Everyday,Voyager,False
+1613,Online Shopper,Apex Flat;Voyager;Everyday,Apex Flat,False
+1614,Foodie,Everyday;Apex Flat;Bistro;Voyager,Everyday,False
+1615,Foodie,Everyday;Rotator;Apex Flat,Everyday,False
+1616,Online Shopper,Everyday;Voyager;Apex Flat,Everyday,False
+1617,Traveller,Rotator;Everyday;Bistro;Apex Flat,Apex Flat,False
+1618,Foodie,Apex Flat;Rotator;Bistro;Everyday,Bistro,False
+1619,Balanced,Apex Flat;Everyday,Everyday,True
+1620,Family,Rotator;Voyager;Apex Flat,Apex Flat,False
+1621,Foodie,Everyday;Rotator,Rotator,False
+1622,Balanced,Voyager;Apex Flat,Apex Flat,False
+1623,Foodie,Everyday;Rotator;Bistro;Apex Flat,Bistro,False
+1624,Traveller,Rotator;Voyager,Voyager,False
+1625,Balanced,Voyager;Rotator;Apex Flat;Everyday,Everyday,False
+1626,Traveller,Voyager;Rotator,Voyager,False
+1627,Traveller,Apex Flat;Rotator;Voyager;Bistro,Rotator,False
+1628,Family,Rotator;Apex Flat;Voyager,Rotator,False
+1629,Foodie,Everyday;Rotator,Rotator,False
+1630,Traveller,Rotator;Apex Flat;Voyager,Apex Flat,False
+1631,Balanced,Bistro;Apex Flat,Bistro,False
+1632,Foodie,Apex Flat;Everyday;Voyager;Bistro,Apex Flat,False
+1633,Balanced,Apex Flat;Voyager;Bistro;Everyday,Bistro,False
+1634,Traveller,Voyager;Everyday;Bistro,Voyager,False
+1635,Traveller,Apex Flat;Bistro;Voyager;Everyday,Voyager,False
+1636,Foodie,Everyday;Bistro,Bistro,False
+1637,Online Shopper,Rotator;Everyday;Bistro,Rotator,False
+1638,Foodie,Bistro;Apex Flat;Voyager,Apex Flat,False
+1639,Family,Bistro;Voyager,Voyager,False
+1640,Online Shopper,Apex Flat;Voyager;Bistro,Voyager,False
+1641,Foodie,Voyager;Apex Flat;Everyday,Voyager,False
+1642,Traveller,Apex Flat;Rotator;Everyday,Rotator,False
+1643,Traveller,Rotator;Apex Flat;Voyager;Everyday,Everyday,False
+1644,Foodie,Bistro;Everyday;Apex Flat;Rotator,Everyday,True
+1645,Family,Voyager;Everyday;Bistro;Rotator,Rotator,False
+1646,Family,Voyager;Bistro,Bistro,False
+1647,Online Shopper,Apex Flat;Everyday;Rotator;Bistro,Apex Flat,False
+1648,Balanced,Everyday;Apex Flat;Rotator,Everyday,True
+1649,Balanced,Apex Flat;Voyager,Apex Flat,False
+1650,Foodie,Everyday;Bistro;Rotator;Voyager,Rotator,False
+1651,Foodie,Everyday;Bistro;Rotator,Bistro,False
+1652,Foodie,Apex Flat;Voyager,Voyager,False
+1653,Traveller,Voyager;Apex Flat;Bistro,Bistro,False
+1654,Foodie,Apex Flat;Everyday;Bistro,Apex Flat,False
+1655,Family,Rotator;Apex Flat,Apex Flat,False
+1656,Balanced,Everyday;Rotator;Voyager,Rotator,False
+1657,Balanced,Bistro;Rotator,Bistro,False
+1658,Balanced,Everyday;Apex Flat;Voyager;Rotator,Apex Flat,False
+1659,Family,Voyager;Everyday;Bistro,Bistro,False
+1660,Online Shopper,Everyday;Bistro,Bistro,False
+1661,Online Shopper,Everyday;Rotator,Everyday,False
+1662,Foodie,Everyday;Bistro,Everyday,False
+1663,Traveller,Apex Flat;Rotator;Bistro,Rotator,False
+1664,Traveller,Bistro;Everyday,Everyday,False
+1665,Family,Bistro;Rotator;Voyager;Everyday,Everyday,False
+1666,Online Shopper,Rotator;Voyager;Apex Flat,Apex Flat,False
+1667,Online Shopper,Bistro;Rotator;Apex Flat,Apex Flat,False
+1668,Traveller,Everyday;Apex Flat;Bistro,Bistro,False
+1669,Online Shopper,Everyday;Rotator;Voyager,Rotator,False
+1670,Online Shopper,Apex Flat;Bistro,Apex Flat,True
+1671,Traveller,Apex Flat;Bistro,Bistro,True
+1672,Family,Voyager;Rotator;Everyday;Bistro,Rotator,False
+1673,Online Shopper,Rotator;Apex Flat;Voyager;Bistro,Bistro,False
+1674,Online Shopper,Rotator;Apex Flat,Apex Flat,False
+1675,Balanced,Everyday;Bistro;Voyager;Rotator,Everyday,False
+1676,Foodie,Voyager;Apex Flat;Bistro,Voyager,False
+1677,Traveller,Everyday;Voyager,Everyday,False
+1678,Balanced,Everyday;Apex Flat,Everyday,False
+1679,Traveller,Everyday;Voyager,Voyager,False
+1680,Balanced,Bistro;Everyday,Everyday,False
+1681,Foodie,Apex Flat;Bistro;Voyager,Apex Flat,False
+1682,Foodie,Bistro;Apex Flat;Voyager;Everyday,Everyday,False
+1683,Online Shopper,Voyager;Everyday;Bistro;Rotator,Voyager,False
+1684,Family,Apex Flat;Voyager;Bistro;Everyday,Voyager,True
+1685,Traveller,Rotator;Apex Flat;Voyager;Bistro,Voyager,False
+1686,Traveller,Apex Flat;Rotator,Rotator,False
+1687,Traveller,Voyager;Bistro,Bistro,False
+1688,Balanced,Apex Flat;Bistro,Bistro,False
+1689,Foodie,Rotator;Voyager;Everyday;Apex Flat,Voyager,True
+1690,Online Shopper,Everyday;Rotator,Everyday,False
+1691,Balanced,Apex Flat;Everyday;Bistro;Voyager,Everyday,False
+1692,Online Shopper,Everyday;Rotator,Rotator,False
+1693,Family,Apex Flat;Everyday,Everyday,False
+1694,Foodie,Rotator;Bistro,Bistro,False
+1695,Online Shopper,Voyager;Bistro,Voyager,False
+1696,Traveller,Apex Flat;Voyager,Voyager,False
+1697,Foodie,Everyday;Rotator;Bistro,Rotator,False
+1698,Family,Everyday;Apex Flat;Voyager;Rotator,Everyday,False
+1699,Balanced,Apex Flat;Everyday;Voyager,Apex Flat,False
+1700,Family,Apex Flat;Rotator,Rotator,True
+1701,Foodie,Voyager;Everyday;Bistro;Apex Flat,Voyager,False
+1702,Online Shopper,Apex Flat;Everyday;Voyager,Apex Flat,False
+1703,Foodie,Bistro;Rotator,Bistro,False
+1704,Balanced,Apex Flat;Voyager;Bistro;Rotator,Voyager,False
+1705,Balanced,Apex Flat;Voyager;Bistro;Everyday,Everyday,False
+1706,Balanced,Rotator;Apex Flat;Voyager,Voyager,False
+1707,Balanced,Apex Flat;Voyager,Apex Flat,False
+1708,Family,Apex Flat;Voyager,Apex Flat,False
+1709,Family,Voyager;Rotator;Everyday;Bistro,Everyday,False
+1710,Family,Rotator;Apex Flat,Rotator,False
+1711,Traveller,Apex Flat;Voyager;Everyday,Everyday,False
+1712,Balanced,Apex Flat;Rotator;Voyager,Rotator,False
+1713,Online Shopper,Everyday;Rotator;Voyager;Apex Flat,Everyday,False
+1714,Online Shopper,Everyday;Bistro;Apex Flat,Apex Flat,False
+1715,Balanced,Voyager;Rotator;Everyday;Bistro,Rotator,False
+1716,Online Shopper,Everyday;Bistro;Apex Flat,Bistro,False
+1717,Family,Apex Flat;Everyday;Voyager,Apex Flat,False
+1718,Traveller,Everyday;Apex Flat,Everyday,False
+1719,Traveller,Apex Flat;Voyager,Voyager,False
+1720,Foodie,Everyday;Apex Flat;Rotator,Everyday,False
+1721,Online Shopper,Apex Flat;Bistro,Bistro,False
+1722,Online Shopper,Everyday;Voyager;Bistro,Bistro,False
+1723,Online Shopper,Voyager;Rotator;Apex Flat;Everyday,Voyager,False
+1724,Traveller,Apex Flat;Voyager;Everyday,Everyday,False
+1725,Online Shopper,Everyday;Bistro,Bistro,False
+1726,Balanced,Bistro;Apex Flat,Apex Flat,True
+1727,Traveller,Rotator;Everyday,Rotator,False
+1728,Traveller,Bistro;Everyday;Voyager;Rotator,Voyager,False
+1729,Foodie,Rotator;Bistro,Rotator,False
+1730,Online Shopper,Rotator;Bistro;Apex Flat,Apex Flat,True
+1731,Balanced,Bistro;Everyday,Bistro,True
+1732,Online Shopper,Everyday;Voyager;Bistro;Rotator,Voyager,False
+1733,Balanced,Bistro;Voyager;Apex Flat,Voyager,False
+1734,Balanced,Everyday;Bistro;Apex Flat,Everyday,False
+1735,Online Shopper,Rotator;Voyager;Everyday;Bistro,Bistro,False
+1736,Traveller,Rotator;Voyager;Apex Flat;Bistro,Rotator,True
+1737,Foodie,Rotator;Bistro;Voyager,Rotator,False
+1738,Foodie,Bistro;Voyager,Bistro,False
+1739,Family,Rotator;Apex Flat,Apex Flat,False
+1740,Traveller,Everyday;Bistro;Rotator,Rotator,False
+1741,Online Shopper,Apex Flat;Bistro;Voyager;Rotator,Apex Flat,False
+1742,Traveller,Apex Flat;Bistro;Everyday,Apex Flat,False
+1743,Foodie,Rotator;Bistro;Apex Flat,Apex Flat,True
+1744,Family,Everyday;Rotator;Voyager;Apex Flat,Apex Flat,False
+1745,Balanced,Everyday;Voyager;Bistro;Rotator,Bistro,False
+1746,Balanced,Bistro;Apex Flat,Bistro,False
+1747,Family,Rotator;Bistro,Rotator,False
+1748,Balanced,Bistro;Rotator;Apex Flat,Rotator,False
+1749,Online Shopper,Rotator;Bistro,Rotator,False
+1750,Balanced,Bistro;Voyager;Rotator,Voyager,False
+1751,Balanced,Voyager;Bistro;Everyday;Apex Flat,Voyager,False
+1752,Online Shopper,Rotator;Bistro;Voyager;Everyday,Voyager,False
+1753,Family,Rotator;Bistro;Voyager,Bistro,False
+1754,Online Shopper,Voyager;Bistro;Rotator,Voyager,False
+1755,Family,Apex Flat;Everyday;Bistro,Apex Flat,False
+1756,Family,Rotator;Voyager;Everyday,Rotator,False
+1757,Online Shopper,Rotator;Bistro;Voyager,Voyager,False
+1758,Traveller,Voyager;Bistro,Bistro,False
+1759,Traveller,Voyager;Apex Flat,Voyager,False
+1760,Family,Apex Flat;Bistro,Bistro,True
+1761,Traveller,Bistro;Apex Flat;Everyday;Voyager,Everyday,False
+1762,Foodie,Bistro;Everyday,Bistro,False
+1763,Online Shopper,Bistro;Rotator;Everyday;Apex Flat,Apex Flat,False
+1764,Traveller,Everyday;Bistro,Everyday,False
+1765,Balanced,Voyager;Bistro;Rotator,Voyager,False
+1766,Traveller,Everyday;Rotator;Voyager,Voyager,True
+1767,Traveller,Bistro;Rotator;Apex Flat;Voyager,Apex Flat,False
+1768,Foodie,Apex Flat;Voyager,Apex Flat,False
+1769,Foodie,Voyager;Rotator,Voyager,True
+1770,Family,Apex Flat;Rotator,Rotator,False
+1771,Family,Everyday;Voyager,Everyday,False
+1772,Family,Apex Flat;Everyday;Bistro;Voyager,Apex Flat,False
+1773,Family,Voyager;Rotator;Apex Flat;Bistro,Bistro,False
+1774,Online Shopper,Apex Flat;Rotator;Everyday,Everyday,False
+1775,Foodie,Rotator;Everyday;Voyager;Apex Flat,Rotator,False
+1776,Family,Rotator;Bistro,Bistro,False
+1777,Foodie,Bistro;Everyday,Everyday,False
+1778,Family,Voyager;Everyday,Everyday,False
+1779,Online Shopper,Voyager;Rotator;Everyday;Apex Flat,Everyday,False
+1780,Foodie,Bistro;Voyager;Rotator;Apex Flat,Rotator,False
+1781,Family,Voyager;Bistro;Rotator,Bistro,False
+1782,Foodie,Voyager;Apex Flat,Voyager,False
+1783,Balanced,Apex Flat;Rotator,Apex Flat,False
+1784,Online Shopper,Everyday;Apex Flat,Apex Flat,False
+1785,Family,Apex Flat;Rotator;Voyager,Apex Flat,False
+1786,Foodie,Rotator;Apex Flat,Apex Flat,False
+1787,Foodie,Rotator;Bistro;Voyager,Bistro,True
+1788,Traveller,Voyager;Everyday,Everyday,False
+1789,Online Shopper,Everyday;Apex Flat;Rotator;Bistro,Everyday,False
+1790,Traveller,Bistro;Apex Flat,Apex Flat,False
+1791,Balanced,Apex Flat;Rotator;Voyager,Voyager,True
+1792,Family,Apex Flat;Voyager;Rotator,Voyager,False
+1793,Family,Rotator;Apex Flat,Rotator,False
+1794,Traveller,Everyday;Rotator;Voyager,Everyday,False
+1795,Family,Apex Flat;Rotator;Everyday,Rotator,True
+1796,Balanced,Rotator;Bistro,Bistro,False
+1797,Foodie,Voyager;Bistro,Bistro,False
+1798,Traveller,Voyager;Bistro;Rotator;Apex Flat,Apex Flat,False
+1799,Traveller,Apex Flat;Everyday,Everyday,False
+1800,Foodie,Rotator;Everyday;Apex Flat;Voyager,Rotator,False
+1801,Traveller,Rotator;Bistro;Everyday;Voyager,Rotator,False
+1802,Traveller,Bistro;Voyager,Voyager,False
+1803,Family,Apex Flat;Everyday,Apex Flat,True
+1804,Foodie,Voyager;Apex Flat,Voyager,False
+1805,Foodie,Bistro;Voyager;Rotator;Apex Flat,Voyager,False
+1806,Foodie,Rotator;Bistro;Everyday;Voyager,Bistro,False
+1807,Traveller,Bistro;Everyday;Apex Flat,Apex Flat,False
+1808,Foodie,Rotator;Apex Flat,Apex Flat,False
+1809,Balanced,Voyager;Apex Flat,Voyager,False
+1810,Family,Everyday;Voyager;Apex Flat;Bistro,Everyday,False
+1811,Online Shopper,Rotator;Bistro,Rotator,True
+1812,Online Shopper,Bistro;Everyday,Everyday,False
+1813,Traveller,Everyday;Apex Flat;Rotator,Apex Flat,False
+1814,Balanced,Voyager;Bistro;Rotator;Apex Flat,Bistro,True
+1815,Foodie,Bistro;Voyager,Bistro,True
+1816,Family,Everyday;Rotator,Rotator,False
+1817,Family,Everyday;Apex Flat;Voyager,Apex Flat,True
+1818,Foodie,Rotator;Apex Flat;Everyday,Apex Flat,False
+1819,Family,Bistro;Apex Flat;Rotator;Voyager,Bistro,False
+1820,Family,Apex Flat;Voyager,Voyager,False
+1821,Online Shopper,Apex Flat;Voyager;Everyday,Voyager,False
+1822,Family,Bistro;Rotator;Everyday;Apex Flat,Rotator,False
+1823,Balanced,Bistro;Rotator;Everyday;Voyager,Rotator,False
+1824,Online Shopper,Bistro;Voyager,Voyager,False
+1825,Balanced,Bistro;Everyday;Apex Flat;Voyager,Everyday,False
+1826,Foodie,Bistro;Rotator,Bistro,False
+1827,Balanced,Voyager;Bistro;Rotator;Apex Flat,Rotator,True
+1828,Online Shopper,Bistro;Voyager,Bistro,False
+1829,Balanced,Rotator;Voyager;Everyday,Everyday,False
+1830,Family,Rotator;Bistro;Apex Flat,Bistro,False
+1831,Balanced,Voyager;Everyday;Apex Flat;Rotator,Apex Flat,True
+1832,Traveller,Rotator;Everyday,Everyday,False
+1833,Foodie,Everyday;Bistro;Rotator;Apex Flat,Bistro,False
+1834,Traveller,Apex Flat;Rotator;Everyday,Rotator,True
+1835,Foodie,Everyday;Bistro;Apex Flat;Voyager,Bistro,False
+1836,Balanced,Rotator;Apex Flat,Rotator,False
+1837,Family,Apex Flat;Everyday,Apex Flat,False
+1838,Family,Rotator;Voyager,Rotator,True
+1839,Traveller,Bistro;Everyday;Apex Flat,Apex Flat,False
+1840,Traveller,Rotator;Voyager;Everyday,Everyday,False
+1841,Foodie,Bistro;Everyday;Apex Flat,Apex Flat,False
+1842,Balanced,Everyday;Voyager;Apex Flat;Rotator,Rotator,True
+1843,Balanced,Voyager;Rotator;Bistro,Voyager,False
+1844,Online Shopper,Voyager;Apex Flat;Rotator,Apex Flat,True
+1845,Online Shopper,Apex Flat;Rotator;Voyager;Everyday,Everyday,False
+1846,Traveller,Voyager;Apex Flat;Bistro;Rotator,Bistro,False
+1847,Traveller,Apex Flat;Voyager,Apex Flat,False
+1848,Traveller,Everyday;Apex Flat;Bistro;Voyager,Bistro,True
+1849,Foodie,Everyday;Rotator;Apex Flat,Apex Flat,False
+1850,Foodie,Everyday;Bistro,Everyday,False
+1851,Family,Apex Flat;Everyday,Everyday,False
+1852,Traveller,Bistro;Rotator;Apex Flat,Rotator,False
+1853,Foodie,Apex Flat;Voyager;Everyday;Bistro,Everyday,False
+1854,Foodie,Voyager;Rotator,Voyager,False
+1855,Balanced,Rotator;Bistro,Rotator,False
+1856,Family,Everyday;Apex Flat,Everyday,False
+1857,Traveller,Everyday;Voyager;Apex Flat;Rotator,Everyday,False
+1858,Traveller,Bistro;Voyager,Bistro,False
+1859,Online Shopper,Apex Flat;Bistro;Rotator;Everyday,Bistro,False
+1860,Online Shopper,Rotator;Bistro;Apex Flat;Everyday,Bistro,False
+1861,Family,Rotator;Everyday;Voyager;Apex Flat,Everyday,False
+1862,Balanced,Bistro;Everyday,Everyday,False
+1863,Family,Apex Flat;Bistro,Bistro,False
+1864,Balanced,Apex Flat;Rotator;Voyager,Voyager,False
+1865,Traveller,Bistro;Apex Flat;Rotator,Rotator,False
+1866,Foodie,Apex Flat;Rotator;Voyager;Everyday,Everyday,False
+1867,Online Shopper,Bistro;Rotator;Apex Flat,Apex Flat,False
+1868,Foodie,Everyday;Apex Flat;Bistro;Rotator,Apex Flat,False
+1869,Online Shopper,Rotator;Voyager;Everyday,Voyager,False
+1870,Foodie,Apex Flat;Rotator,Rotator,False
+1871,Family,Apex Flat;Rotator;Voyager;Bistro,Voyager,False
+1872,Online Shopper,Rotator;Voyager,Voyager,False
+1873,Balanced,Apex Flat;Bistro,Apex Flat,False
+1874,Traveller,Rotator;Apex Flat;Everyday;Bistro,Everyday,False
+1875,Foodie,Voyager;Apex Flat;Rotator;Bistro,Rotator,False
+1876,Family,Bistro;Voyager;Everyday,Voyager,False
+1877,Balanced,Everyday;Bistro,Bistro,False
+1878,Online Shopper,Everyday;Voyager;Rotator,Voyager,False
+1879,Foodie,Voyager;Everyday,Everyday,False
+1880,Family,Apex Flat;Everyday;Voyager,Voyager,False
+1881,Family,Rotator;Apex Flat,Rotator,False
+1882,Foodie,Apex Flat;Rotator,Rotator,False
+1883,Balanced,Rotator;Bistro;Voyager,Bistro,False
+1884,Online Shopper,Rotator;Apex Flat;Bistro;Everyday,Everyday,False
+1885,Foodie,Apex Flat;Rotator;Voyager,Voyager,False
+1886,Online Shopper,Apex Flat;Rotator;Everyday;Bistro,Rotator,False
+1887,Traveller,Rotator;Apex Flat;Everyday;Voyager,Rotator,True
+1888,Foodie,Rotator;Bistro,Rotator,False
+1889,Traveller,Apex Flat;Voyager;Rotator;Bistro,Voyager,False
+1890,Foodie,Rotator;Bistro,Bistro,False
+1891,Family,Everyday;Bistro;Rotator;Apex Flat,Bistro,False
+1892,Balanced,Voyager;Everyday,Voyager,False
+1893,Online Shopper,Voyager;Apex Flat;Bistro;Everyday,Apex Flat,False
+1894,Foodie,Apex Flat;Rotator,Apex Flat,True
+1895,Balanced,Everyday;Rotator;Apex Flat;Bistro,Rotator,False
+1896,Traveller,Voyager;Apex Flat,Apex Flat,False
+1897,Balanced,Voyager;Apex Flat,Apex Flat,False
+1898,Online Shopper,Bistro;Everyday;Voyager,Everyday,True
+1899,Family,Voyager;Everyday;Apex Flat,Apex Flat,False
+1900,Traveller,Voyager;Apex Flat;Rotator,Voyager,False
+1901,Traveller,Rotator;Bistro;Everyday,Everyday,False
+1902,Online Shopper,Apex Flat;Everyday,Everyday,False
+1903,Family,Voyager;Bistro,Bistro,False
+1904,Family,Bistro;Rotator;Everyday,Everyday,False
+1905,Family,Bistro;Apex Flat,Bistro,False
+1906,Family,Everyday;Bistro;Voyager,Bistro,False
+1907,Foodie,Apex Flat;Bistro;Voyager;Rotator,Rotator,False
+1908,Foodie,Apex Flat;Everyday;Bistro,Bistro,False
+1909,Balanced,Voyager;Rotator;Everyday;Bistro,Bistro,False
+1910,Foodie,Rotator;Everyday;Voyager;Bistro,Voyager,True
+1911,Balanced,Rotator;Everyday;Bistro;Apex Flat,Everyday,False
+1912,Foodie,Apex Flat;Rotator,Rotator,False
+1913,Online Shopper,Bistro;Voyager,Voyager,False
+1914,Family,Bistro;Rotator;Everyday,Bistro,False
+1915,Traveller,Everyday;Apex Flat;Bistro;Rotator,Bistro,False
+1916,Family,Apex Flat;Everyday;Bistro,Everyday,False
+1917,Traveller,Voyager;Apex Flat;Bistro;Everyday,Voyager,False
+1918,Traveller,Everyday;Bistro;Rotator,Rotator,False
+1919,Traveller,Bistro;Everyday;Apex Flat,Apex Flat,False
+1920,Family,Apex Flat;Everyday,Everyday,False
+1921,Traveller,Apex Flat;Bistro,Bistro,True
+1922,Balanced,Apex Flat;Rotator;Bistro,Bistro,True
+1923,Traveller,Voyager;Rotator,Voyager,False
+1924,Family,Apex Flat;Everyday;Voyager,Everyday,True
+1925,Foodie,Apex Flat;Bistro;Voyager;Everyday,Apex Flat,False
+1926,Family,Bistro;Apex Flat;Everyday,Apex Flat,False
+1927,Foodie,Apex Flat;Everyday;Rotator,Apex Flat,False
+1928,Foodie,Bistro;Voyager,Voyager,False
+1929,Balanced,Apex Flat;Voyager;Bistro;Everyday,Bistro,False
+1930,Foodie,Bistro;Everyday,Everyday,False
+1931,Traveller,Apex Flat;Everyday,Everyday,False
+1932,Balanced,Rotator;Bistro;Everyday,Everyday,False
+1933,Balanced,Bistro;Everyday;Apex Flat;Rotator,Everyday,False
+1934,Foodie,Bistro;Apex Flat,Apex Flat,False
+1935,Foodie,Bistro;Rotator;Voyager,Rotator,False
+1936,Family,Rotator;Apex Flat,Apex Flat,False
+1937,Traveller,Voyager;Bistro;Rotator;Apex Flat,Voyager,False
+1938,Balanced,Everyday;Voyager;Rotator,Rotator,False
+1939,Family,Apex Flat;Rotator,Apex Flat,False
+1940,Foodie,Bistro;Apex Flat,Apex Flat,False
+1941,Family,Everyday;Bistro,Bistro,False
+1942,Balanced,Bistro;Everyday;Voyager,Everyday,False
+1943,Foodie,Voyager;Apex Flat;Bistro,Voyager,False
+1944,Family,Rotator;Voyager;Bistro,Rotator,False
+1945,Foodie,Everyday;Apex Flat,Apex Flat,False
+1946,Foodie,Everyday;Bistro,Everyday,True
+1947,Balanced,Voyager;Bistro;Rotator,Bistro,False
+1948,Foodie,Bistro;Voyager;Everyday,Everyday,False
+1949,Family,Apex Flat;Voyager,Apex Flat,False
+1950,Balanced,Voyager;Rotator;Everyday;Bistro,Bistro,False
+1951,Online Shopper,Voyager;Apex Flat;Everyday;Bistro,Apex Flat,False
+1952,Foodie,Apex Flat;Voyager,Apex Flat,False
+1953,Traveller,Rotator;Bistro;Everyday;Apex Flat,Rotator,False
+1954,Balanced,Rotator;Everyday;Apex Flat,Apex Flat,False
+1955,Traveller,Bistro;Apex Flat;Rotator,Bistro,False
+1956,Traveller,Rotator;Voyager,Rotator,True
+1957,Traveller,Rotator;Bistro;Voyager,Bistro,False
+1958,Online Shopper,Bistro;Apex Flat,Apex Flat,True
+1959,Foodie,Apex Flat;Bistro,Bistro,True
+1960,Balanced,Voyager;Everyday,Voyager,False
+1961,Balanced,Rotator;Bistro;Apex Flat,Apex Flat,False
+1962,Foodie,Everyday;Bistro,Bistro,False
+1963,Balanced,Voyager;Apex Flat;Everyday,Everyday,False
+1964,Balanced,Voyager;Rotator,Voyager,False
+1965,Online Shopper,Apex Flat;Bistro;Everyday,Bistro,True
+1966,Family,Bistro;Everyday,Everyday,False
+1967,Traveller,Everyday;Bistro;Apex Flat;Rotator,Everyday,False
+1968,Balanced,Bistro;Everyday;Rotator,Everyday,False
+1969,Foodie,Everyday;Rotator;Apex Flat,Everyday,False
+1970,Balanced,Voyager;Bistro;Apex Flat,Voyager,False
+1971,Balanced,Everyday;Voyager;Rotator,Voyager,False
+1972,Online Shopper,Everyday;Voyager;Apex Flat,Apex Flat,False
+1973,Family,Everyday;Bistro;Rotator;Voyager,Voyager,False
+1974,Traveller,Apex Flat;Bistro;Everyday;Rotator,Apex Flat,True
+1975,Foodie,Voyager;Apex Flat;Bistro,Apex Flat,False
+1976,Balanced,Voyager;Everyday;Rotator,Voyager,False
+1977,Family,Apex Flat;Rotator;Everyday;Voyager,Rotator,False
+1978,Foodie,Apex Flat;Rotator,Rotator,False
+1979,Online Shopper,Everyday;Apex Flat,Apex Flat,False
+1980,Online Shopper,Everyday;Bistro,Everyday,False
+1981,Online Shopper,Bistro;Voyager;Rotator;Apex Flat,Apex Flat,False
+1982,Foodie,Everyday;Bistro;Voyager;Rotator,Everyday,False
+1983,Online Shopper,Bistro;Voyager;Rotator,Rotator,True
+1984,Online Shopper,Apex Flat;Everyday;Rotator;Bistro,Everyday,False
+1985,Online Shopper,Rotator;Everyday;Bistro;Apex Flat,Everyday,False
+1986,Balanced,Rotator;Apex Flat;Bistro;Voyager,Voyager,False
+1987,Family,Rotator;Bistro,Bistro,False
+1988,Family,Bistro;Apex Flat,Apex Flat,True
+1989,Balanced,Everyday;Voyager,Voyager,False
+1990,Traveller,Rotator;Apex Flat;Everyday,Apex Flat,False
+1991,Traveller,Bistro;Everyday;Apex Flat,Apex Flat,False
+1992,Family,Apex Flat;Bistro;Rotator;Everyday,Rotator,False
+1993,Online Shopper,Voyager;Apex Flat;Everyday;Rotator,Everyday,False
+1994,Online Shopper,Bistro;Rotator;Voyager,Voyager,False
+1995,Foodie,Everyday;Bistro;Voyager;Apex Flat,Voyager,False
+1996,Traveller,Rotator;Voyager;Everyday;Bistro,Bistro,False
+1997,Balanced,Everyday;Bistro;Apex Flat;Rotator,Everyday,False
+1998,Family,Everyday;Voyager;Apex Flat,Voyager,True
+1999,Family,Voyager;Apex Flat;Bistro;Rotator,Rotator,False
